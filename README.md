@@ -67,9 +67,10 @@ The project is organized in several folders. First of all the division of CRF an
 ### \CRF
 In this folder is present the implementation for the Conditional Random Fields over the movie dataset. In the main folders are present the script to execute the CRF analysis and the input and output files of the analysis. In particular "template.txt" and "template_base.txt" contains the template for the CRF and "train_complete.txt" and "test_complete.txt" contains the train and test data. The python scripts instead are two:
 * base_test.py: contains the baseline analysis for the dataset and uses "template_base.text"
-* tag_test.py: containd the code to perform the complete analysis that gives best results on dataset, use the "template.txt" file
+* tag_test.py: contains the code to perform the analysis that merges IOB-tags and lemmas, use the "template.txt" file
+* best_test.py: contains the code for the best analysis registered on the dataset, use "template.txt" file
 
-In the dataset folder are present the dataset that includes IOB-tags document and lemmas. In results folder the result for the tag_test.py file is saved to have a comparison metric for other analysis.
+In the dataset folder are present the dataset that includes IOB-tags document and lemmas. In results folder the result for the best.py file is saved to have a comparison metric for other analysis.
 
 ### \RNN
 In this folder are present the files to train and test different models of Recurrent Neural Network. In dataset folder are present the current train and test files. In the folder model_elman are saved the parameters of the trained network. In results there are several results obtained with different methods and paramenters. In rrn_slu instead are present the specification for each RNN model and the script to create, train and test each model.
