@@ -32,6 +32,13 @@ cd CRF
 python tag_test.py -r
 ```
 
+or
+
+```
+cd CRF
+python best.py -r
+```
+
 Where the option -r indicates the necessity to retrain the model. Excluding it mean testing with the current saved model (the one present in "model.txt").
 
 ### RNN
