@@ -1,0 +1,3228 @@
+what   O
+aircraft   O
+is   O
+used   O
+on   O
+delta   B-airline_name
+flight   O
+DIGITDIGITDIGITDIGIT   B-flight_number
+from   O
+kansas   B-fromloc.city_name
+city   I-fromloc.city_name
+to   O
+salt   B-toloc.city_name
+lake   I-toloc.city_name
+city   I-toloc.city_name
+
+
+i   O
+want   O
+to   O
+go   O
+from   O
+boston   B-fromloc.city_name
+to   O
+atlanta   B-toloc.city_name
+on   O
+monday   B-depart_date.day_name
+
+
+i   O
+need   O
+a   O
+flight   O
+from   O
+atlanta   B-fromloc.city_name
+to   O
+philadelphia   B-toloc.city_name
+and   O
+i   O
+'m   O
+looking   O
+for   O
+the   O
+cheapest   B-cost_relative
+fare   O
+
+
+i   O
+need   O
+a   O
+flight   O
+from   O
+toronto   B-fromloc.city_name
+to   O
+montreal   B-toloc.city_name
+reaching   O
+montreal   B-toloc.city_name
+early   B-arrive_time.period_mod
+on   O
+friday   B-arrive_date.day_name
+
+
+show   O
+me   O
+the   O
+evening   B-depart_time.period_of_day
+flights   O
+from   O
+philadelphia   B-fromloc.city_name
+to   O
+baltimore   B-toloc.city_name
+
+
+tell   O
+me   O
+distance   O
+from   O
+orlando   B-fromloc.airport_name
+airport   I-fromloc.airport_name
+to   O
+the   O
+city   O
+
+
+what   O
+is   O
+restriction   O
+ap80   B-restriction_code
+
+
+what   O
+is   O
+the   O
+lowest   B-cost_relative
+cost   I-cost_relative
+fare   O
+that   O
+delta   B-airline_name
+has   O
+between   O
+boston   B-fromloc.city_name
+and   O
+san   B-toloc.city_name
+francisco   I-toloc.city_name
+
+
+flight   O
+DIGITDIGITDIGIT   B-flight_number
+from   O
+cincinnati   B-fromloc.city_name
+to   O
+dallas   B-toloc.city_name
+
+
+now   O
+i   O
+need   O
+a   O
+one   B-round_trip
+way   I-round_trip
+flight   O
+from   O
+pittsburgh   B-fromloc.city_name
+to   O
+denver   B-toloc.city_name
+
+
+display   O
+all   O
+flights   O
+leaving   O
+from   O
+toronto   B-fromloc.city_name
+to   O
+san   B-toloc.city_name
+diego   I-toloc.city_name
+on   O
+us   B-airline_name
+air   I-airline_name
+<UNK>   O
+over   O
+in   O
+washington   B-stoploc.city_name
+dc   B-stoploc.state_code
+
+
+list   O
+all   O
+nonstop   B-flight_stop
+flights   O
+on   O
+tuesday   B-arrive_date.day_name
+before   B-arrive_time.time_relative
+noon   B-arrive_time.time
+from   O
+charlotte   B-fromloc.city_name
+to   O
+baltimore   B-toloc.city_name
+
+
+show   O
+me   O
+the   O
+lowest   B-cost_relative
+<UNK>   O
+fare   O
+from   O
+dallas   B-fromloc.city_name
+to   O
+baltimore   B-toloc.city_name
+
+
+what   O
+is   O
+the   O
+cheapest   B-cost_relative
+coach   B-class_type
+flight   O
+between   O
+dallas   B-fromloc.city_name
+and   O
+baltimore   B-toloc.city_name
+leaving   O
+august   B-depart_date.month_name
+tenth   B-depart_date.day_number
+
+
+does   O
+midwest   B-airline_name
+express   O
+serve   O
+philadelphia   B-city_name
+
+
+what   O
+flights   O
+on   O
+united   B-airline_name
+leave   O
+la   B-fromloc.airport_name
+guardia   I-fromloc.airport_name
+for   O
+san   B-toloc.city_name
+jose   I-toloc.city_name
+and   O
+arrive   O
+around   B-arrive_time.time_relative
+DIGITDIGIT   B-arrive_time.time
+pm   I-arrive_time.time
+
+
+list   O
+the   O
+nonstop   B-flight_stop
+flights   O
+from   O
+denver   B-fromloc.city_name
+to   O
+washington   B-toloc.city_name
+dc   B-toloc.state_code
+
+
+how   O
+much   O
+does   O
+flight   O
+ua   B-airline_code
+DIGITDIGITDIGIT   B-flight_number
+from   O
+denver   B-fromloc.city_name
+to   O
+san   B-toloc.city_name
+francisco   I-toloc.city_name
+cost   O
+
+
+what   O
+kind   O
+of   O
+ground   O
+transportation   O
+is   O
+available   O
+in   O
+las   B-city_name
+vegas   I-city_name
+
+
+what   O
+are   O
+the   O
+nonstop   B-flight_stop
+flights   O
+from   O
+kansas   B-fromloc.city_name
+city   I-fromloc.city_name
+to   O
+burbank   B-toloc.city_name
+arriving   O
+on   O
+saturday   B-arrive_date.day_name
+may   B-arrive_date.month_name
+twenty   B-arrive_date.day_number
+two   I-arrive_date.day_number
+
+
+list   O
+the   O
+morning   B-depart_time.period_of_day
+flights   O
+at   O
+a   O
+DIGITDIGITDIGIT   B-fare_amount
+dollars   I-fare_amount
+from   O
+atlanta   B-fromloc.city_name
+to   O
+boston   B-toloc.city_name
+
+
+what   O
+is   O
+the   O
+fare   O
+going   O
+from   O
+atlanta   B-fromloc.city_name
+to   O
+boston   B-toloc.city_name
+one   B-round_trip
+way   I-round_trip
+on   O
+november   B-depart_date.month_name
+seventh   B-depart_date.day_number
+
+
+is   O
+there   O
+a   O
+flight   O
+from   O
+atlanta   B-fromloc.city_name
+to   O
+san   B-toloc.city_name
+francisco   I-toloc.city_name
+that   O
+stops   O
+over   O
+in   O
+denver   B-stoploc.city_name
+
+
+find   O
+travel   O
+arrangements   O
+for   O
+a   O
+round   B-round_trip
+trip   I-round_trip
+flight   O
+from   O
+baltimore   B-fromloc.city_name
+to   O
+pittsburgh   B-toloc.city_name
+after   B-depart_time.time_relative
+DIGIT   B-depart_time.time
+o'clock   I-depart_time.time
+pm   I-depart_time.time
+before   B-depart_time.time_relative
+DIGITDIGIT   B-depart_time.time
+o'clock   I-depart_time.time
+pm   I-depart_time.time
+
+
+can   O
+i   O
+have   O
+a   O
+list   O
+of   O
+all   O
+the   O
+thursday   B-depart_date.day_name
+flights   O
+from   O
+baltimore   B-fromloc.city_name
+to   O
+atlanta   B-toloc.city_name
+that   O
+leave   O
+after   B-depart_time.time_relative
+DIGIT   B-depart_time.time
+pm   I-depart_time.time
+
+
+what   O
+flights   O
+do   O
+you   O
+have   O
+in   O
+the   O
+morning   B-depart_time.period_of_day
+of   O
+september   B-depart_date.month_name
+twentieth   B-depart_date.day_number
+on   O
+united   B-airline_name
+airlines   I-airline_name
+from   O
+pittsburgh   B-fromloc.city_name
+to   O
+san   B-toloc.city_name
+francisco   I-toloc.city_name
+and   O
+a   O
+stopover   O
+in   O
+denver   B-stoploc.city_name
+
+
+i   O
+need   O
+a   O
+flight   O
+from   O
+boston   B-fromloc.city_name
+to   O
+pittsburgh   B-toloc.city_name
+that   O
+leaves   O
+early   B-depart_time.period_mod
+in   O
+the   O
+morning   B-depart_time.period_of_day
+
+
+round   B-round_trip
+trip   I-round_trip
+houston   B-fromloc.city_name
+to   O
+las   B-toloc.city_name
+vegas   I-toloc.city_name
+nonstop   B-flight_stop
+
+
+flight   O
+information   O
+from   O
+san   B-fromloc.city_name
+francisco   I-fromloc.city_name
+to   O
+pittsburgh   B-toloc.city_name
+
+
+give   O
+me   O
+flights   O
+without   O
+fares   O
+from   O
+atlanta   B-fromloc.city_name
+to   O
+baltimore   B-toloc.city_name
+
+
+on   O
+monday   B-depart_date.day_name
+i   O
+would   O
+like   O
+to   O
+travel   O
+from   O
+charlotte   B-fromloc.city_name
+north   B-fromloc.state_name
+carolina   I-fromloc.state_name
+to   O
+phoenix   B-toloc.city_name
+arizona   B-toloc.state_name
+i   O
+would   O
+like   O
+to   O
+arrive   O
+in   O
+phoenix   B-toloc.city_name
+before   B-arrive_time.time_relative
+DIGIT   B-arrive_time.time
+pm   I-arrive_time.time
+
+
+i   O
+would   O
+like   O
+to   O
+find   O
+flights   O
+from   O
+columbus   B-fromloc.city_name
+to   O
+minneapolis   B-toloc.city_name
+on   O
+monday   B-depart_date.day_name
+june   B-depart_date.month_name
+fourteenth   B-depart_date.day_number
+early   B-depart_time.period_mod
+in   O
+the   O
+morning   B-depart_time.period_of_day
+or   B-or
+in   O
+the   O
+evening   B-depart_time.period_of_day
+sunday   B-depart_date.day_name
+june   B-depart_date.month_name
+thirteenth   B-depart_date.day_number
+thank   O
+you   O
+
+
+what   O
+is   O
+airline   O
+ff   B-airline_code
+
+
+give   O
+me   O
+flights   O
+from   O
+pittsburgh   B-fromloc.city_name
+to   O
+baltimore   B-toloc.city_name
+
+
+show   O
+me   O
+the   O
+flights   O
+from   O
+denver   B-fromloc.city_name
+to   O
+atlanta   B-toloc.city_name
+on   O
+friday   B-depart_date.day_name
+
+
+airline   O
+that   O
+stands   O
+for   O
+dl   B-airline_code
+
+
+show   O
+me   O
+flights   O
+from   O
+dallas   B-fromloc.city_name
+to   O
+houston   B-toloc.city_name
+and   O
+from   O
+houston   B-fromloc.city_name
+to   O
+dallas   B-toloc.city_name
+
+
+how   O
+many   O
+first   B-class_type
+class   I-class_type
+flights   O
+does   O
+delta   B-airline_name
+have   O
+today   B-depart_date.today_relative
+
+
+how   O
+many   O
+first   B-class_type
+class   I-class_type
+flights   O
+does   O
+united   B-airline_name
+have   O
+leaving   O
+from   O
+all   O
+cities   O
+today   B-depart_date.today_relative
+
+
+what   O
+flights   O
+does   O
+delta   B-airline_name
+have   O
+between   O
+boston   B-fromloc.city_name
+and   O
+san   B-toloc.city_name
+francisco   I-toloc.city_name
+
+
+list   O
+ground   O
+transportation   O
+in   O
+detroit   B-city_name
+
+
+information   O
+on   O
+afternoon   B-depart_time.period_of_day
+flights   O
+from   O
+philadelphia   B-fromloc.city_name
+to   O
+denver   B-toloc.city_name
+
+
+list   O
+the   O
+morning   B-depart_time.period_of_day
+flights   O
+between   O
+atlanta   B-fromloc.city_name
+and   O
+dallas   B-toloc.city_name
+
+
+show   O
+me   O
+the   O
+flights   O
+from   O
+boston   B-fromloc.city_name
+to   O
+pittsburgh   B-toloc.city_name
+
+
+give   O
+me   O
+the   O
+latest   B-flight_mod
+flight   O
+tomorrow   B-depart_date.today_relative
+on   O
+american   B-airline_name
+airlines   I-airline_name
+from   O
+milwaukee   B-fromloc.city_name
+to   O
+tacoma   B-toloc.city_name
+
+
+nonstop   B-flight_stop
+flights   O
+seattle   B-toloc.city_name
+to   O
+boston   B-toloc.city_name
+
+
+what   O
+time   B-flight_time
+is   O
+the   O
+last   B-flight_mod
+flight   O
+from   O
+washington   B-fromloc.city_name
+to   O
+san   B-toloc.city_name
+francisco   I-toloc.city_name
+
+
+us   B-airline_code
+DIGITDIGITDIGITDIGIT   B-flight_number
+baltimore   B-fromloc.city_name
+to   O
+philadelphia   B-toloc.city_name
+what   O
+is   O
+the   O
+round   B-round_trip
+trip   I-round_trip
+fare   O
+
+
+please   O
+show   O
+me   O
+any   O
+united   B-airline_name
+flights   O
+<UNK>   O
+connections   B-connect
+between   O
+boston   B-fromloc.city_name
+and   O
+san   B-toloc.city_name
+francisco   I-toloc.city_name
+at   O
+DIGIT   B-depart_time.time
+in   O
+the   O
+evening   B-depart_time.period_of_day
+
+
+list   O
+all   O
+the   O
+flights   O
+that   O
+fly   O
+into   O
+general   B-fromloc.airport_name
+mitchell   I-fromloc.airport_name
+international   I-fromloc.airport_name
+
+
+display   O
+all   O
+flights   O
+from   O
+toronto   B-fromloc.city_name
+to   O
+san   B-toloc.city_name
+diego   I-toloc.city_name
+on   O
+us   B-airline_name
+air   I-airline_name
+stopping   O
+over   O
+in   O
+denver   B-stoploc.city_name
+
+
+i   O
+'d   O
+like   O
+to   O
+find   O
+a   O
+us   B-airline_name
+air   I-airline_name
+flight   O
+from   O
+orlando   B-fromloc.city_name
+to   O
+cleveland   B-toloc.city_name
+that   O
+arrives   O
+around   B-arrive_time.time_relative
+DIGITDIGIT   B-arrive_time.time
+o'clock   I-arrive_time.time
+in   O
+the   O
+evening   B-arrive_time.period_of_day
+
+
+what   O
+'s   O
+the   O
+airport   O
+at   O
+orlando   B-city_name
+
+
+show   O
+me   O
+the   O
+flights   O
+from   O
+boston   B-fromloc.city_name
+to   O
+san   B-toloc.city_name
+francisco   I-toloc.city_name
+stopping   O
+in   O
+dallas   B-stoploc.city_name
+on   O
+american   B-airline_name
+airlines   I-airline_name
+
+
+what   O
+do   O
+these   O
+cost   O
+
+
+what   O
+airline   O
+uses   O
+the   O
+code   O
+hp   B-airline_code
+
+
+please   O
+tell   O
+me   O
+the   O
+flights   O
+between   O
+boston   B-fromloc.city_name
+and   O
+philadelphia   B-toloc.city_name
+next   B-depart_date.date_relative
+thursday   B-depart_date.day_name
+
+
+show   O
+all   O
+flights   O
+with   O
+first   B-class_type
+class   I-class_type
+from   O
+baltimore   B-fromloc.city_name
+to   O
+dallas   B-toloc.city_name
+
+
+information   O
+on   O
+flights   O
+from   O
+denver   B-fromloc.city_name
+to   O
+philadelphia   B-toloc.city_name
+
+
+i   O
+now   O
+need   O
+a   O
+flight   O
+from   O
+san   B-fromloc.city_name
+jose   I-fromloc.city_name
+to   O
+houston   B-toloc.city_name
+leaving   O
+on   O
+sunday   B-depart_date.day_name
+the   O
+fourth   B-depart_date.day_number
+
+
+show   O
+me   O
+the   O
+flights   O
+between   O
+atlanta   B-fromloc.city_name
+and   O
+washington   B-toloc.city_name
+dc   B-toloc.state_code
+for   O
+wednesdays   B-depart_date.day_name
+
+
+do   O
+you   O
+have   O
+any   O
+flights   O
+from   O
+boston   B-fromloc.city_name
+to   O
+dallas   B-toloc.city_name
+fort   I-toloc.city_name
+worth   I-toloc.city_name
+that   O
+stop   O
+over   O
+in   O
+philadelphia   B-stoploc.city_name
+
+
+give   O
+me   O
+a   O
+list   O
+of   O
+airlines   O
+in   O
+pittsburgh   B-city_name
+
+
+show   O
+me   O
+all   O
+flights   O
+from   O
+denver   B-fromloc.city_name
+to   O
+philadelphia   B-toloc.city_name
+which   O
+leave   O
+next   B-depart_date.date_relative
+saturday   B-depart_date.day_name
+afternoon   B-depart_time.period_of_day
+
+
+what   O
+are   O
+the   O
+evening   B-depart_time.period_of_day
+flights   O
+from   O
+atlanta   B-fromloc.city_name
+to   O
+baltimore   B-toloc.city_name
+
+
+what   O
+flights   O
+between   O
+dfw   B-fromloc.airport_code
+and   O
+oakland   B-toloc.city_name
+arrive   O
+in   O
+oakland   B-toloc.city_name
+between   O
+DIGITDIGITDIGITDIGIT   B-arrive_time.start_time
+am   I-arrive_time.start_time
+and   O
+DIGITDIGIT   B-arrive_time.end_time
+pm   I-arrive_time.end_time
+
+
+on   O
+a   O
+flight   O
+from   O
+san   B-fromloc.city_name
+francisco   I-fromloc.city_name
+to   O
+atlanta   B-toloc.city_name
+that   O
+leaves   O
+before   B-depart_time.time_relative
+DIGIT   B-depart_time.time
+am   I-depart_time.time
+is   O
+there   O
+<UNK>   O
+a   O
+flight   O
+
+
+what   O
+ground   O
+transportation   O
+can   O
+i   O
+take   O
+into   O
+boston   B-city_name
+
+
+please   O
+show   O
+me   O
+the   O
+round   B-round_trip
+trip   I-round_trip
+flights   O
+from   O
+st.   B-fromloc.city_name
+petersburg   I-fromloc.city_name
+to   O
+toronto   B-toloc.city_name
+
+
+show   O
+me   O
+all   O
+flights   O
+from   O
+baltimore   B-fromloc.city_name
+to   O
+philadelphia   B-toloc.city_name
+
+
+all   O
+flights   O
+and   O
+fares   O
+from   O
+pittsburgh   B-fromloc.city_name
+to   O
+dallas   B-toloc.city_name
+round   B-round_trip
+trip   I-round_trip
+after   B-depart_time.time_relative
+DIGITDIGIT   B-depart_time.time
+pm   I-depart_time.time
+less   B-cost_relative
+than   O
+DIGITDIGITDIGITDIGIT   B-fare_amount
+dollars   I-fare_amount
+
+
+does   O
+us   B-airline_name
+air   I-airline_name
+fly   O
+from   O
+dc   B-fromloc.state_code
+to   O
+dallas   B-toloc.city_name
+
+
+what   O
+does   O
+code   O
+yn   B-fare_basis_code
+mean   O
+
+
+list   O
+all   O
+daily   B-flight_days
+flights   O
+between   O
+boston   B-fromloc.city_name
+and   O
+oakland   B-toloc.city_name
+using   O
+delta   B-airline_name
+airlines   I-airline_name
+
+
+what   O
+does   O
+ua   B-airline_code
+stand   O
+for   O
+
+
+please   O
+list   O
+the   O
+flights   O
+from   O
+chicago   B-fromloc.city_name
+to   O
+kansas   B-toloc.city_name
+city   I-toloc.city_name
+
+
+i   O
+would   O
+like   O
+to   O
+fly   O
+from   O
+boston   B-fromloc.city_name
+to   O
+atlanta   B-toloc.city_name
+
+
+which   O
+airlines   O
+fly   O
+from   O
+boston   B-fromloc.city_name
+to   O
+washington   B-toloc.city_name
+
+
+show   O
+me   O
+flights   O
+from   O
+baltimore   B-fromloc.city_name
+to   O
+boston   B-toloc.city_name
+
+
+are   O
+there   O
+any   O
+thrift   B-class_type
+economy   B-economy
+flights   O
+to   O
+san   B-toloc.city_name
+francisco   I-toloc.city_name
+from   O
+boston   B-fromloc.city_name
+
+
+what   O
+flights   O
+leave   O
+from   O
+nashville   B-fromloc.city_name
+to   O
+phoenix   B-toloc.city_name
+
+
+display   O
+all   O
+flights   O
+from   O
+dallas   B-fromloc.city_name
+to   O
+boston   B-toloc.city_name
+on   O
+july   B-depart_date.month_name
+thirtieth   B-depart_date.day_number
+
+
+i   O
+live   O
+in   O
+montreal   B-fromloc.city_name
+and   O
+i   O
+want   O
+to   O
+travel   O
+to   O
+chicago   B-toloc.city_name
+then   O
+indianapolis   B-toloc.city_name
+and   O
+then   O
+return   O
+<UNK>   O
+
+
+show   O
+me   O
+fares   O
+from   O
+philadelphia   B-fromloc.city_name
+to   O
+san   B-toloc.city_name
+francisco   I-toloc.city_name
+on   O
+thursday   B-depart_date.day_name
+morning   B-depart_time.period_of_day
+
+
+show   O
+me   O
+the   O
+latest   B-flight_mod
+flight   O
+from   O
+denver   B-fromloc.city_name
+to   O
+boston   B-toloc.city_name
+
+
+are   O
+there   O
+any   O
+flights   O
+next   B-depart_date.date_relative
+monday   B-depart_date.day_name
+morning   B-depart_time.period_of_day
+from   O
+pittsburgh   B-fromloc.city_name
+to   O
+san   B-toloc.city_name
+francisco   I-toloc.city_name
+
+
+show   O
+all   O
+flights   O
+and   O
+fares   O
+from   O
+pittsburgh   B-fromloc.city_name
+to   O
+san   B-toloc.city_name
+francisco   I-toloc.city_name
+
+
+what   O
+is   O
+the   O
+fare   O
+on   O
+american   B-airline_name
+airlines   I-airline_name
+flight   O
+DIGITDIGITDIGIT   B-flight_number
+from   O
+dallas   B-fromloc.city_name
+fort   I-fromloc.city_name
+worth   I-fromloc.city_name
+to   O
+boston   B-toloc.city_name
+
+
+what   O
+flights   O
+from   O
+atlanta   B-fromloc.city_name
+to   O
+washington   B-toloc.city_name
+
+
+i   O
+'m   O
+interested   O
+in   O
+flights   O
+from   O
+denver   B-fromloc.city_name
+to   O
+pittsburgh   B-toloc.city_name
+
+
+does   O
+midwest   B-airline_name
+express   O
+serve   O
+charlotte   B-city_name
+
+
+what   O
+flights   O
+are   O
+available   O
+from   O
+pittsburgh   B-fromloc.city_name
+to   O
+baltimore   B-toloc.city_name
+on   O
+july   B-depart_date.month_name
+twenty   B-depart_date.day_number
+fifth   I-depart_date.day_number
+DIGITDIGITDIGITDIGIT   B-depart_date.year
+
+
+on   O
+april   B-depart_date.month_name
+eighth   B-depart_date.day_number
+i   O
+would   O
+like   O
+to   O
+book   O
+a   O
+flight   O
+from   O
+charlotte   B-fromloc.city_name
+to   O
+baltimore   B-toloc.city_name
+
+
+what   O
+flights   O
+are   O
+available   O
+saturday   B-depart_date.day_name
+to   O
+san   B-toloc.city_name
+francisco   I-toloc.city_name
+from   O
+dallas   B-fromloc.city_name
+
+
+what   O
+flights   O
+are   O
+available   O
+friday   B-depart_date.day_name
+afternoon   B-depart_time.period_of_day
+from   O
+pittsburgh   B-fromloc.city_name
+to   O
+san   B-toloc.city_name
+francisco   I-toloc.city_name
+
+
+show   O
+me   O
+the   O
+last   B-flight_mod
+flight   O
+from   O
+love   B-fromloc.airport_name
+field   I-fromloc.airport_name
+
+
+show   O
+me   O
+the   O
+flights   O
+from   O
+pittsburgh   B-fromloc.city_name
+to   O
+baltimore   B-toloc.city_name
+arriving   O
+in   O
+baltimore   B-toloc.city_name
+on   O
+june   B-arrive_date.month_name
+fourteenth   B-arrive_date.day_number
+
+
+what   O
+flights   O
+are   O
+available   O
+from   O
+boston   B-fromloc.city_name
+to   O
+washington   B-toloc.city_name
+late   B-depart_time.period_mod
+monday   B-depart_date.day_name
+evening   B-depart_time.period_of_day
+or   B-or
+early   B-depart_time.period_mod
+tuesday   B-depart_date.day_name
+morning   B-depart_time.period_of_day
+
+
+flights   O
+from   O
+phoenix   B-fromloc.city_name
+to   O
+newark   B-toloc.city_name
+
+
+does   O
+the   O
+phoenix   B-airport_name
+airport   I-airport_name
+have   O
+ground   O
+transportation   O
+to   O
+and   O
+from   O
+downtown   O
+
+
+show   O
+me   O
+all   O
+flights   O
+which   O
+leave   O
+pittsburgh   B-fromloc.city_name
+tomorrow   B-depart_date.today_relative
+and   O
+arrive   O
+in   O
+baltimore   B-toloc.city_name
+after   B-arrive_time.time_relative
+DIGIT   B-arrive_time.time
+o'clock   I-arrive_time.time
+pm   I-arrive_time.time
+
+
+what   O
+are   O
+the   O
+flights   O
+from   O
+boston   B-fromloc.city_name
+to   O
+baltimore   B-toloc.city_name
+leaving   O
+tomorrow   B-depart_date.today_relative
+
+
+phoenix   B-fromloc.city_name
+to   O
+denver   B-toloc.city_name
+
+
+chicago   B-fromloc.city_name
+to   O
+milwaukee   B-toloc.city_name
+
+
+please   O
+show   O
+me   O
+the   O
+return   B-round_trip
+flights   O
+from   O
+miami   B-fromloc.city_name
+to   O
+new   B-toloc.city_name
+york   I-toloc.city_name
+
+
+how   O
+many   O
+booking   O
+classes   O
+are   O
+there   O
+
+
+flights   O
+from   O
+indianapolis   B-fromloc.city_name
+to   O
+seattle   B-toloc.city_name
+
+
+show   O
+flights   O
+between   O
+toronto   B-fromloc.city_name
+and   O
+san   B-toloc.city_name
+francisco   I-toloc.city_name
+
+
+show   O
+me   O
+the   O
+cheapest   B-cost_relative
+fare   O
+in   O
+the   O
+database   O
+
+
+flights   O
+from   O
+kansas   B-fromloc.city_name
+city   I-fromloc.city_name
+to   O
+cleveland   B-toloc.city_name
+on   O
+wednesday   B-depart_date.day_name
+before   B-depart_time.time_relative
+DIGIT   B-depart_time.time
+pm   I-depart_time.time
+
+
+show   O
+me   O
+all   O
+the   O
+flights   O
+from   O
+montreal   B-fromloc.city_name
+to   O
+detroit   B-toloc.city_name
+
+
+show   O
+me   O
+all   O
+flights   O
+from   O
+san   B-fromloc.city_name
+francisco   I-fromloc.city_name
+to   O
+boston   B-toloc.city_name
+philadelphia   B-toloc.city_name
+or   O
+baltimore   B-toloc.city_name
+
+
+i   O
+want   O
+the   O
+flights   O
+from   O
+toronto   B-fromloc.city_name
+to   O
+san   B-toloc.city_name
+diego   I-toloc.city_name
+that   O
+stop   O
+in   O
+st.   B-stoploc.city_name
+louis   I-stoploc.city_name
+
+
+show   O
+me   O
+the   O
+one   B-round_trip
+way   I-round_trip
+flights   O
+from   O
+detroit   B-fromloc.city_name
+to   O
+westchester   B-toloc.city_name
+county   I-toloc.city_name
+
+
+flights   O
+on   O
+sunday   B-depart_date.day_name
+from   O
+tampa   B-fromloc.city_name
+to   O
+charlotte   B-toloc.city_name
+
+
+i   O
+want   O
+to   O
+find   O
+the   O
+first   B-flight_mod
+flight   O
+from   O
+baltimore   B-fromloc.city_name
+to   O
+boston   B-toloc.city_name
+that   O
+serves   O
+a   O
+meal   B-meal
+
+
+what   O
+ground   O
+transportation   O
+is   O
+there   O
+from   O
+the   O
+airport   O
+in   O
+atlanta   B-fromloc.city_name
+to   O
+downtown   O
+
+
+what   O
+flights   O
+are   O
+available   O
+from   O
+denver   B-fromloc.city_name
+to   O
+dallas   B-toloc.city_name
+fort   I-toloc.city_name
+worth   I-toloc.city_name
+in   O
+the   O
+<UNK>   B-depart_time.period_of_day
+
+
+what   O
+flights   O
+does   O
+us   B-airline_name
+air   I-airline_name
+have   O
+from   O
+san   B-fromloc.city_name
+francisco   I-fromloc.city_name
+to   O
+pittsburgh   B-toloc.city_name
+on   O
+tuesday   B-depart_date.day_name
+
+
+show   O
+any   O
+flights   O
+leaving   O
+san   B-fromloc.city_name
+francisco   I-fromloc.city_name
+on   O
+sunday   B-depart_date.day_name
+and   O
+arriving   O
+in   O
+pittsburgh   B-toloc.city_name
+
+
+i   O
+want   O
+to   O
+fly   O
+from   O
+boston   B-fromloc.city_name
+at   O
+DIGITDIGITDIGIT   B-depart_time.time
+am   I-depart_time.time
+and   O
+arrive   O
+in   O
+denver   B-toloc.city_name
+at   O
+DIGITDIGITDIGITDIGIT   B-arrive_time.time
+in   O
+the   O
+morning   B-arrive_time.period_of_day
+
+
+what   O
+is   O
+hp   B-airline_code
+
+
+i   O
+'d   O
+like   O
+to   O
+see   O
+flights   O
+from   O
+pittsburgh   B-fromloc.city_name
+to   O
+atlanta   B-toloc.city_name
+
+
+i   O
+need   O
+to   O
+take   O
+ten   O
+people   O
+from   O
+denver   B-fromloc.city_name
+to   O
+phoenix   B-toloc.city_name
+please   O
+give   O
+me   O
+the   O
+flights   O
+during   B-flight_mod
+the   I-flight_mod
+week   I-flight_mod
+
+
+find   O
+a   O
+flight   O
+on   O
+american   B-airline_name
+airlines   I-airline_name
+from   O
+boston   B-fromloc.city_name
+to   O
+san   B-toloc.city_name
+francisco   I-toloc.city_name
+that   O
+makes   O
+a   O
+stopover   O
+in   O
+denver   B-stoploc.city_name
+
+
+list   O
+the   O
+number   O
+of   O
+flights   O
+leaving   O
+boston   B-fromloc.city_name
+for   O
+dallas   B-toloc.city_name
+fort   I-toloc.city_name
+worth   I-toloc.city_name
+before   B-depart_time.time_relative
+DIGIT   B-depart_time.time
+am   I-depart_time.time
+in   O
+the   O
+morning   B-depart_time.period_of_day
+
+
+when   O
+can   O
+i   O
+fly   O
+from   O
+philadelphia   B-fromloc.city_name
+to   O
+dallas   B-toloc.city_name
+on   O
+a   O
+saturday   B-depart_date.day_name
+morning   B-depart_time.period_of_day
+
+
+what   O
+'s   O
+the   O
+lowest   B-cost_relative
+round   B-round_trip
+trip   I-round_trip
+fare   O
+from   O
+dallas   B-fromloc.city_name
+to   O
+any   O
+city   O
+
+
+may   O
+i   O
+have   O
+a   O
+listing   O
+of   O
+flights   O
+on   O
+monday   B-depart_date.day_name
+from   O
+minneapolis   B-fromloc.city_name
+to   O
+long   B-toloc.city_name
+beach   I-toloc.city_name
+california   B-toloc.state_name
+please   O
+
+
+please   O
+show   O
+me   O
+all   O
+the   O
+flights   O
+from   O
+boston   B-fromloc.city_name
+
+
+i   O
+want   O
+to   O
+travel   O
+from   O
+atlanta   B-fromloc.city_name
+to   O
+baltimore   B-toloc.city_name
+early   B-depart_time.period_mod
+in   O
+the   O
+morning   B-depart_time.period_of_day
+first   B-flight_mod
+flight   O
+
+
+cheapest   B-cost_relative
+fare   O
+from   O
+memphis   B-fromloc.city_name
+to   O
+seattle   B-toloc.city_name
+
+
+i   O
+would   O
+like   O
+to   O
+see   O
+the   O
+flights   O
+from   O
+denver   B-fromloc.city_name
+to   O
+philadelphia   B-toloc.city_name
+please   O
+
+
+what   O
+flights   O
+are   O
+available   O
+friday   B-depart_date.day_name
+from   O
+san   B-fromloc.city_name
+francisco   I-fromloc.city_name
+to   O
+boston   B-toloc.city_name
+
+
+list   O
+all   O
+the   O
+landings   O
+at   O
+general   B-toloc.airport_name
+mitchell   I-toloc.airport_name
+international   I-toloc.airport_name
+
+
+what   O
+flights   O
+depart   O
+from   O
+charlotte   B-fromloc.city_name
+to   O
+newark   B-toloc.city_name
+that   O
+leave   O
+in   O
+the   O
+afternoon   B-depart_time.period_of_day
+or   B-or
+leave   O
+in   O
+the   O
+evening   B-depart_time.period_of_day
+
+
+i   O
+'d   O
+like   O
+a   O
+round   B-round_trip
+trip   I-round_trip
+ticket   O
+from   O
+los   B-fromloc.city_name
+angeles   I-fromloc.city_name
+to   O
+tacoma   B-toloc.city_name
+washington   B-toloc.state_name
+
+
+what   O
+is   O
+the   O
+earliest   B-flight_mod
+flight   O
+from   O
+boston   B-fromloc.city_name
+to   O
+san   B-toloc.city_name
+francisco   I-toloc.city_name
+
+
+how   O
+much   O
+does   O
+it   O
+cost   O
+to   O
+fly   O
+on   O
+american   B-airline_name
+from   O
+dallas   B-fromloc.city_name
+to   O
+baltimore   B-toloc.city_name
+
+
+show   O
+me   O
+ground   O
+transport   O
+in   O
+seattle   B-city_name
+
+
+what   O
+is   O
+the   O
+cheapest   B-cost_relative
+flight   O
+from   O
+atlanta   B-fromloc.city_name
+to   O
+pittsburgh   B-toloc.city_name
+one   B-round_trip
+way   I-round_trip
+
+
+what   O
+is   O
+restriction   O
+ap   B-restriction_code
+DIGITDIGIT   I-restriction_code
+
+
+show   O
+me   O
+the   O
+monday   B-depart_date.day_name
+flights   O
+from   O
+san   B-fromloc.city_name
+francisco   I-fromloc.city_name
+to   O
+pittsburgh   B-toloc.city_name
+
+
+all   O
+flights   O
+pittsburgh   B-fromloc.city_name
+to   O
+baltimore   B-toloc.city_name
+on   O
+thursday   B-depart_date.day_name
+arrival   O
+by   B-arrive_time.time_relative
+DIGITDIGIT   B-arrive_time.time
+am   I-arrive_time.time
+
+
+what   O
+flights   O
+go   O
+from   O
+boston   B-fromloc.city_name
+to   O
+atlanta   B-toloc.city_name
+
+
+give   O
+me   O
+the   O
+flights   O
+leaving   O
+denver   B-fromloc.city_name
+august   B-depart_date.month_name
+ninth   B-depart_date.day_number
+coming   O
+back   O
+to   O
+boston   B-toloc.city_name
+
+
+what   O
+does   O
+fare   O
+code   O
+qw   B-fare_basis_code
+mean   O
+
+
+what   O
+are   O
+the   O
+flights   O
+which   O
+depart   O
+from   O
+san   B-fromloc.city_name
+francisco   I-fromloc.city_name
+fly   O
+to   O
+washington   B-toloc.city_name
+via   O
+indianapolis   B-stoploc.city_name
+and   O
+arrive   O
+by   B-arrive_time.time_relative
+DIGIT   B-arrive_time.time
+pm   I-arrive_time.time
+
+
+what   O
+is   O
+the   O
+earliest   B-flight_mod
+flight   O
+from   O
+oakland   B-fromloc.city_name
+to   O
+washington   B-toloc.city_name
+dc   B-toloc.state_code
+on   O
+sunday   B-depart_date.day_name
+
+
+what   O
+flights   O
+are   O
+there   O
+from   O
+denver   B-fromloc.city_name
+to   O
+atlanta   B-toloc.city_name
+
+
+please   O
+list   O
+flights   O
+between   O
+san   B-fromloc.city_name
+francisco   I-fromloc.city_name
+and   O
+denver   B-toloc.city_name
+
+
+hello   O
+i   O
+would   O
+like   O
+to   O
+plan   O
+a   O
+flight   O
+on   O
+american   B-airline_name
+airlines   I-airline_name
+from   O
+boston   B-fromloc.city_name
+to   O
+denver   B-toloc.city_name
+
+
+show   O
+me   O
+the   O
+flights   O
+from   O
+baltimore   B-fromloc.city_name
+to   O
+oakland   B-toloc.city_name
+
+
+what   O
+flights   O
+does   O
+delta   B-airline_name
+have   O
+from   O
+denver   B-fromloc.city_name
+to   O
+dallas   B-toloc.city_name
+after   B-depart_time.time_relative
+DIGIT   B-depart_time.time
+
+
+what   O
+flights   O
+go   O
+from   O
+newark   B-fromloc.city_name
+to   O
+boston   B-toloc.city_name
+after   B-depart_time.time_relative
+DIGIT   B-depart_time.time
+pm   I-depart_time.time
+
+
+show   O
+me   O
+all   O
+round   B-round_trip
+trip   I-round_trip
+flights   O
+between   O
+houston   B-fromloc.city_name
+and   O
+las   B-toloc.city_name
+vegas   I-toloc.city_name
+
+
+please   O
+list   O
+the   O
+flights   O
+taking   O
+<UNK>   O
+and   O
+landing   O
+on   O
+general   B-fromloc.airport_name
+mitchell   I-fromloc.airport_name
+international   I-fromloc.airport_name
+airport   I-fromloc.airport_name
+
+
+ground   O
+transportation   O
+for   O
+st.   B-city_name
+paul   I-city_name
+
+
+i   O
+would   O
+like   O
+information   O
+on   O
+flights   O
+from   O
+san   B-fromloc.city_name
+francisco   I-fromloc.city_name
+to   O
+pittsburgh   B-toloc.city_name
+leaving   O
+after   B-depart_time.time_relative
+DIGIT   B-depart_time.time
+pm   I-depart_time.time
+monday   B-depart_date.day_name
+night   B-depart_time.period_of_day
+
+
+i   O
+'d   O
+like   O
+to   O
+book   O
+a   O
+flight   O
+from   O
+atlanta   B-fromloc.city_name
+to   O
+denver   B-toloc.city_name
+
+
+please   O
+list   O
+all   O
+flights   O
+that   O
+leave   O
+denver   B-fromloc.city_name
+before   B-depart_time.time_relative
+noon   B-depart_time.time
+on   O
+northwest   B-airline_name
+airlines   I-airline_name
+
+
+what   O
+flights   O
+from   O
+houston   B-fromloc.city_name
+to   O
+milwaukee   B-toloc.city_name
+on   O
+friday   B-depart_date.day_name
+on   O
+american   B-airline_name
+airlines   I-airline_name
+
+
+flights   O
+from   O
+newark   B-fromloc.city_name
+new   B-fromloc.state_name
+jersey   I-fromloc.state_name
+to   O
+cleveland   B-toloc.city_name
+ohio   B-toloc.state_name
+
+
+what   O
+flights   O
+leave   O
+seattle   B-fromloc.city_name
+on   O
+sunday   B-depart_date.day_name
+on   O
+continental   B-airline_name
+after   B-depart_time.time_relative
+DIGIT   B-depart_time.time
+pm   I-depart_time.time
+
+
+show   O
+me   O
+flights   O
+from   O
+san   B-fromloc.city_name
+francisco   I-fromloc.city_name
+to   O
+denver   B-toloc.city_name
+on   O
+weekdays   B-flight_mod
+
+
+what   O
+is   O
+american   B-airline_name
+'s   O
+schedule   B-flight_time
+of   O
+morning   B-depart_time.period_of_day
+flights   O
+to   O
+atlanta   B-toloc.city_name
+
+
+can   O
+you   O
+list   O
+all   O
+the   O
+flights   O
+between   O
+phoenix   B-fromloc.city_name
+and   O
+las   B-toloc.city_name
+vegas   I-toloc.city_name
+
+
+can   O
+you   O
+please   O
+tell   O
+me   O
+the   O
+type   O
+of   O
+aircraft   O
+used   O
+flying   O
+from   O
+atlanta   B-fromloc.city_name
+to   O
+denver   B-toloc.city_name
+on   O
+eastern   B-airline_name
+flight   O
+DIGITDIGITDIGIT   B-flight_number
+leaving   O
+at   O
+DIGITDIGITDIGIT   B-depart_time.time
+
+
+show   O
+me   O
+all   O
+the   O
+flights   O
+from   O
+san   B-fromloc.city_name
+francisco   I-fromloc.city_name
+to   O
+boston   B-toloc.city_name
+for   O
+august   B-depart_date.month_name
+thirty   B-depart_date.day_number
+first   I-depart_date.day_number
+DIGITDIGITDIGITDIGIT   B-depart_date.year
+
+
+please   O
+list   O
+all   O
+flights   O
+on   O
+united   B-airline_name
+airlines   I-airline_name
+out   O
+of   O
+denver   B-fromloc.city_name
+before   B-depart_time.time_relative
+noon   B-depart_time.time
+
+
+list   O
+all   O
+flights   O
+from   O
+orlando   B-fromloc.city_name
+to   O
+kansas   B-toloc.city_name
+city   I-toloc.city_name
+then   O
+to   O
+minneapolis   B-toloc.city_name
+
+
+list   O
+all   O
+american   B-airline_name
+airlines   I-airline_name
+flight   O
+from   O
+milwaukee   B-fromloc.city_name
+to   O
+phoenix   B-toloc.city_name
+on   O
+sunday   B-depart_date.day_name
+
+
+in   O
+economy   B-economy
+class   I-economy
+from   O
+dallas   B-fromloc.city_name
+to   O
+baltimore   B-toloc.city_name
+arriving   O
+july   B-arrive_date.month_name
+seventh   B-arrive_date.day_number
+i   O
+'d   O
+like   O
+to   O
+know   O
+what   O
+'s   O
+the   O
+cheapest   B-cost_relative
+ticket   O
+possible   O
+
+
+i   O
+wish   O
+to   O
+fly   O
+from   O
+boston   B-fromloc.city_name
+to   O
+washington   B-toloc.city_name
+please   O
+find   O
+an   O
+airline   O
+for   O
+me   O
+
+
+find   O
+the   O
+cheapest   B-cost_relative
+one   B-round_trip
+way   I-round_trip
+fare   O
+from   O
+boston   B-fromloc.city_name
+to   O
+san   B-toloc.city_name
+francisco   I-toloc.city_name
+
+
+how   O
+many   O
+passengers   O
+fit   O
+on   O
+a   O
+<UNK>   B-aircraft_code
+
+
+what   O
+flight   O
+do   O
+you   O
+have   O
+from   O
+san   B-fromloc.city_name
+francisco   I-fromloc.city_name
+to   O
+pittsburgh   B-toloc.city_name
+on   O
+the   O
+evening   B-depart_time.period_of_day
+of   O
+august   B-depart_date.month_name
+twenty   B-depart_date.day_number
+seventh   I-depart_date.day_number
+
+
+shortest   B-flight_mod
+flight   O
+from   O
+ontario   B-fromloc.city_name
+california   B-fromloc.state_name
+to   O
+orlando   B-toloc.city_name
+florida   B-toloc.state_name
+
+
+how   O
+much   O
+would   O
+car   B-transport_type
+rental   I-transport_type
+cost   O
+in   O
+atlanta   B-city_name
+
+
+show   O
+me   O
+all   O
+flights   O
+from   O
+san   B-fromloc.city_name
+diego   I-fromloc.city_name
+to   O
+miami   B-toloc.city_name
+with   O
+a   O
+stop   O
+in   O
+denver   B-stoploc.city_name
+
+
+pm   B-depart_time.period_of_day
+flights   O
+dallas   B-fromloc.city_name
+to   O
+atlanta   B-toloc.city_name
+
+
+i   O
+'d   O
+like   O
+a   O
+flight   O
+on   O
+american   B-airline_name
+from   O
+newark   B-fromloc.city_name
+to   O
+nashville   B-toloc.city_name
+
+
+what   O
+kind   O
+of   O
+ground   O
+transportation   O
+is   O
+there   O
+<UNK>   O
+i   O
+get   O
+to   O
+dallas   B-city_name
+
+
+what   O
+planes   O
+does   O
+united   B-airline_name
+use   O
+
+
+give   O
+me   O
+the   O
+flights   O
+from   O
+pittsburgh   B-fromloc.city_name
+to   O
+los   B-toloc.city_name
+angeles   I-toloc.city_name
+thursday   B-depart_date.day_name
+evening   B-depart_time.period_of_day
+
+
+could   O
+you   O
+tell   O
+me   O
+what   O
+the   O
+earliest   B-flight_mod
+flight   O
+that   O
+goes   O
+between   O
+atlanta   B-fromloc.city_name
+and   O
+denver   B-toloc.city_name
+is   O
+which   O
+serves   O
+a   O
+meal   B-meal
+
+
+show   O
+me   O
+the   O
+latest   B-flight_mod
+flight   O
+on   O
+wednesday   B-depart_date.day_name
+from   O
+atlanta   B-fromloc.city_name
+to   O
+washington   B-toloc.city_name
+dc   B-toloc.state_code
+
+
+show   O
+me   O
+flights   O
+from   O
+pittsburgh   B-fromloc.city_name
+to   O
+san   B-toloc.city_name
+francisco   I-toloc.city_name
+on   O
+sunday   B-depart_date.day_name
+
+
+give   O
+me   O
+flights   O
+from   O
+denver   B-fromloc.city_name
+to   O
+baltimore   B-toloc.city_name
+
+
+what   O
+ground   O
+transport   O
+is   O
+available   O
+in   O
+charlotte   B-city_name
+
+
+how   O
+long   O
+does   O
+it   O
+take   O
+to   O
+get   O
+from   O
+atlanta   B-fromloc.airport_name
+airport   I-fromloc.airport_name
+into   O
+the   O
+city   O
+of   O
+atlanta   B-toloc.city_name
+
+
+tell   O
+me   O
+about   O
+ground   O
+transportation   O
+between   O
+orlando   B-fromloc.airport_name
+international   I-fromloc.airport_name
+and   O
+orlando   B-toloc.city_name
+
+
+what   O
+flights   O
+are   O
+there   O
+on   O
+continental   B-airline_name
+from   O
+seattle   B-fromloc.city_name
+to   O
+chicago   B-toloc.city_name
+
+
+i   O
+need   O
+to   O
+fly   O
+leaving   O
+philadelphia   B-fromloc.city_name
+to   O
+atlanta   B-toloc.city_name
+
+
+what   O
+is   O
+the   O
+earliest   B-flight_mod
+flight   O
+that   O
+has   O
+no   B-flight_stop
+stops   I-flight_stop
+from   O
+washington   B-fromloc.city_name
+to   O
+san   B-toloc.city_name
+francisco   I-toloc.city_name
+on   O
+friday   B-depart_date.day_name
+
+
+give   O
+me   O
+a   O
+flight   O
+from   O
+new   B-fromloc.city_name
+york   I-fromloc.city_name
+city   I-fromloc.city_name
+to   O
+las   B-toloc.city_name
+vegas   I-toloc.city_name
+and   O
+a   O
+flight   O
+from   O
+memphis   B-fromloc.city_name
+to   O
+las   B-toloc.city_name
+vegas   I-toloc.city_name
+that   O
+arrive   O
+at   O
+the   O
+same   O
+time   O
+
+
+list   O
+flights   O
+tomorrow   B-depart_date.today_relative
+from   O
+san   B-fromloc.city_name
+diego   I-fromloc.city_name
+to   O
+phoenix   B-toloc.city_name
+
+
+i   O
+need   O
+to   O
+go   O
+from   O
+boston   B-fromloc.city_name
+to   O
+atlanta   B-toloc.city_name
+in   O
+the   O
+same   B-depart_date.date_relative
+day   O
+find   O
+me   O
+the   O
+earliest   B-flight_mod
+flight   O
+from   O
+boston   B-fromloc.city_name
+
+
+show   O
+me   O
+the   O
+flights   O
+from   O
+san   B-fromloc.city_name
+francisco   I-fromloc.city_name
+to   O
+boston   B-toloc.city_name
+
+
+on   O
+august   B-depart_date.month_name
+thirtieth   B-depart_date.day_number
+please   O
+schedule   O
+me   O
+on   O
+a   O
+flight   O
+from   O
+denver   B-fromloc.city_name
+to   O
+san   B-toloc.city_name
+francisco   I-toloc.city_name
+early   B-depart_time.period_mod
+in   O
+the   O
+morning   B-depart_time.period_of_day
+
+
+show   O
+me   O
+all   O
+flights   O
+for   O
+tomorrow   B-depart_date.today_relative
+from   O
+san   B-fromloc.city_name
+francisco   I-fromloc.city_name
+to   O
+pittsburgh   B-toloc.city_name
+
+
+what   O
+flights   O
+are   O
+available   O
+from   O
+boston   B-fromloc.city_name
+to   O
+washington   B-toloc.city_name
+dc   B-toloc.state_code
+late   B-depart_time.period_mod
+the   O
+twenty   B-depart_date.day_number
+fifth   I-depart_date.day_number
+or   B-or
+early   B-depart_time.period_mod
+the   O
+twenty   B-depart_date.day_number
+sixth   I-depart_date.day_number
+
+
+what   O
+limousine   B-transport_type
+service   O
+in   O
+toronto   B-city_name
+
+
+what   O
+is   O
+the   O
+earliest   B-flight_mod
+flight   O
+from   O
+ontario   B-fromloc.city_name
+to   O
+memphis   B-toloc.city_name
+
+
+i   O
+'d   O
+like   O
+the   O
+cheapest   B-cost_relative
+one   B-round_trip
+way   I-round_trip
+fare   O
+from   O
+boston   B-fromloc.city_name
+to   O
+atlanta   B-toloc.city_name
+please   O
+
+
+what   O
+does   O
+the   O
+fare   O
+code   O
+f   B-fare_basis_code
+mean   O
+
+
+does   O
+eastern   B-airline_name
+have   O
+an   O
+early   B-depart_time.period_of_day
+afternoon   B-depart_time.period_of_day
+flight   O
+from   O
+boston   B-fromloc.city_name
+to   O
+san   B-toloc.city_name
+francisco   I-toloc.city_name
+
+
+what   O
+first   B-class_type
+class   I-class_type
+airplane   O
+goes   O
+from   O
+philadelphia   B-fromloc.city_name
+to   O
+san   B-toloc.city_name
+francisco   I-toloc.city_name
+and   O
+stops   O
+in   O
+dallas   B-stoploc.city_name
+in   O
+the   O
+afternoon   B-depart_time.period_of_day
+on   O
+monday   B-depart_date.day_name
+
+
+how   O
+many   O
+flights   O
+has   O
+continental   B-airline_name
+into   O
+and   O
+out   O
+of   O
+atlanta   B-fromloc.city_name
+
+
+what   O
+is   O
+the   O
+fare   O
+from   O
+boston   B-fromloc.city_name
+to   O
+san   B-toloc.city_name
+francisco   I-toloc.city_name
+on   O
+united   B-airline_name
+airlines   I-airline_name
+flight   O
+DIGITDIGIT   B-flight_number
+
+
+what   O
+flights   O
+depart   O
+baltimore   B-fromloc.city_name
+and   O
+arrive   O
+by   B-arrive_time.time_relative
+DIGIT   B-arrive_time.time
+pm   I-arrive_time.time
+friday   B-arrive_date.day_name
+in   O
+san   B-toloc.city_name
+francisco   I-toloc.city_name
+
+
+what   O
+are   O
+the   O
+flights   O
+from   O
+denver   B-fromloc.city_name
+to   O
+baltimore   B-toloc.city_name
+on   O
+august   B-depart_date.month_name
+tenth   B-depart_date.day_number
+
+
+show   O
+me   O
+the   O
+flights   O
+from   O
+boston   B-fromloc.city_name
+to   O
+san   B-toloc.city_name
+francisco   I-toloc.city_name
+leaving   O
+after   B-depart_time.time_relative
+DIGIT   B-depart_time.time
+pm   I-depart_time.time
+on   O
+friday   B-depart_date.day_name
+
+
+is   O
+there   O
+ground   O
+transportation   O
+from   O
+the   O
+boston   B-fromloc.airport_name
+airport   I-fromloc.airport_name
+to   O
+downtown   O
+boston   B-toloc.city_name
+
+
+show   O
+me   O
+the   O
+flights   O
+from   O
+baltimore   B-fromloc.city_name
+to   O
+boston   B-toloc.city_name
+
+
+what   O
+are   O
+the   O
+flights   O
+from   O
+san   B-fromloc.city_name
+francisco   I-fromloc.city_name
+to   O
+denver   B-toloc.city_name
+
+
+list   O
+all   O
+the   O
+flights   O
+from   O
+charlotte   B-fromloc.city_name
+to   O
+atlanta   B-toloc.city_name
+that   O
+return   O
+around   B-depart_time.time_relative
+DIGIT   B-depart_time.time
+pm   I-depart_time.time
+
+
+what   O
+ground   O
+transportation   O
+is   O
+available   O
+in   O
+san   B-city_name
+francisco   I-city_name
+
+
+list   O
+all   O
+the   O
+flights   O
+that   O
+depart   O
+from   O
+general   B-fromloc.airport_name
+mitchell   I-fromloc.airport_name
+international   I-fromloc.airport_name
+
+
+ground   O
+transportation   O
+in   O
+denver   B-city_name
+
+
+show   O
+me   O
+flights   O
+leaving   O
+from   O
+dallas   B-fromloc.city_name
+to   O
+baltimore   B-toloc.city_name
+
+
+what   O
+is   O
+the   O
+seating   O
+capacity   O
+of   O
+a   O
+boeing   O
+DIGITDIGITDIGIT   B-aircraft_code
+
+
+what   O
+is   O
+the   O
+first   B-class_type
+class   I-class_type
+fare   O
+from   O
+indianapolis   B-fromloc.city_name
+to   O
+orlando   B-toloc.city_name
+
+
+please   O
+show   O
+me   O
+flights   O
+from   O
+pittsburgh   B-fromloc.city_name
+to   O
+atlanta   B-toloc.city_name
+on   O
+wednesday   B-depart_date.day_name
+morning   B-depart_time.period_of_day
+serving   O
+breakfast   B-meal_description
+
+
+list   O
+nonstop   B-flight_stop
+flights   O
+from   O
+san   B-fromloc.city_name
+francisco   I-fromloc.city_name
+to   O
+oakland   B-toloc.city_name
+that   O
+depart   O
+in   O
+the   O
+afternoon   B-arrive_time.period_of_day
+
+
+what   O
+is   O
+the   O
+first   B-flight_mod
+flight   O
+from   O
+boston   B-fromloc.city_name
+to   O
+atlanta   B-toloc.city_name
+
+
+round   B-round_trip
+trip   I-round_trip
+flights   O
+from   O
+minneapolis   B-fromloc.city_name
+to   O
+san   B-toloc.city_name
+diego   I-toloc.city_name
+coach   B-class_type
+economy   B-economy
+fare   O
+
+
+please   O
+list   O
+the   O
+cheapest   B-cost_relative
+flights   O
+from   O
+dallas   B-fromloc.city_name
+to   O
+baltimore   B-toloc.city_name
+arriving   O
+on   O
+may   B-arrive_date.month_name
+seventh   B-arrive_date.day_number
+
+
+is   O
+there   O
+an   O
+atlanta   B-fromloc.city_name
+flight   O
+to   O
+denver   B-toloc.city_name
+connecting   B-connect
+
+
+please   O
+list   O
+all   O
+flights   O
+from   O
+oakland   B-fromloc.city_name
+to   O
+dallas   B-toloc.city_name
+on   O
+sunday   B-depart_date.day_name
+morning   B-depart_time.period_of_day
+
+
+i   O
+want   O
+to   O
+leave   O
+before   B-depart_time.time_relative
+DIGIT   B-depart_time.time
+in   O
+the   O
+morning   B-depart_time.period_of_day
+what   O
+flight   O
+should   O
+i   O
+take   O
+to   O
+atlanta   B-toloc.city_name
+from   O
+boston   B-fromloc.city_name
+
+
+flights   O
+from   O
+newark   B-fromloc.city_name
+to   O
+boston   B-toloc.city_name
+
+
+what   O
+are   O
+the   O
+flights   O
+from   O
+san   B-fromloc.city_name
+jose   I-fromloc.city_name
+to   O
+nashville   B-toloc.city_name
+on   O
+thursday   B-depart_date.day_name
+the   O
+twentieth   B-depart_date.day_number
+
+
+does   O
+delta   B-airline_name
+airlines   I-airline_name
+fly   O
+from   O
+pittsburgh   B-fromloc.city_name
+to   O
+atlanta   B-toloc.city_name
+
+
+list   O
+the   O
+earliest   B-flight_mod
+flight   O
+from   O
+st.   B-fromloc.city_name
+paul   I-fromloc.city_name
+to   O
+san   B-toloc.city_name
+jose   I-toloc.city_name
+
+
+give   O
+me   O
+a   O
+list   O
+of   O
+all   O
+the   O
+flights   O
+from   O
+baltimore   B-fromloc.city_name
+to   O
+philadelphia   B-toloc.city_name
+or   B-or
+denver   B-fromloc.city_name
+to   O
+philadelphia   B-toloc.city_name
+or   B-or
+pittsburgh   B-fromloc.city_name
+to   O
+philadelphia   B-toloc.city_name
+
+
+which   O
+delta   B-airline_name
+flights   O
+fly   O
+from   O
+boston   B-fromloc.city_name
+to   O
+philadelphia   B-toloc.city_name
+
+
+is   O
+there   O
+an   O
+airline   O
+that   O
+has   O
+a   O
+flight   O
+from   O
+philadelphia   B-fromloc.city_name
+to   O
+san   B-toloc.city_name
+francisco   I-toloc.city_name
+with   O
+a   O
+stop   O
+in   O
+dallas   B-stoploc.city_name
+
+
+show   O
+me   O
+the   O
+flights   O
+arriving   O
+at   O
+love   B-toloc.airport_name
+field   I-toloc.airport_name
+
+
+friday   B-depart_date.day_name
+'s   O
+flights   O
+between   O
+newark   B-fromloc.city_name
+and   O
+tampa   B-toloc.city_name
+
+
+i   O
+need   O
+flights   O
+that   O
+arrive   O
+in   O
+baltimore   B-toloc.city_name
+from   O
+pittsburgh   B-fromloc.city_name
+
+
+morning   B-depart_time.period_of_day
+flights   O
+out   O
+of   O
+san   B-fromloc.city_name
+francisco   I-fromloc.city_name
+arriving   O
+boston   B-toloc.city_name
+afternoon   B-arrive_time.period_of_day
+
+
+which   O
+airlines   O
+have   O
+flights   O
+between   O
+charlotte   B-fromloc.city_name
+and   O
+newark   B-toloc.city_name
+
+
+are   O
+there   O
+any   O
+nonstop   B-flight_stop
+flights   O
+leaving   O
+from   O
+denver   B-fromloc.city_name
+arriving   O
+in   O
+baltimore   B-toloc.city_name
+on   O
+july   B-arrive_date.month_name
+seventh   B-arrive_date.day_number
+
+
+what   O
+'s   O
+the   O
+cheapest   B-cost_relative
+fare   O
+for   O
+a   O
+round   B-round_trip
+trip   I-round_trip
+from   O
+indianapolis   B-fromloc.city_name
+to   O
+orlando   B-toloc.city_name
+on   O
+december   B-depart_date.month_name
+twenty   B-depart_date.day_number
+seventh   I-depart_date.day_number
+

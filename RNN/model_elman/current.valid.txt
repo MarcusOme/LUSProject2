@@ -1,0 +1,3101 @@
+BOS O O
+who O O
+starred O O
+in O O
+the B-movie.name B-movie.name
+campaign I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who O O
+were O O
+the O O
+crew O O
+for O O
+the B-movie.name B-movie.name
+campaign I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show O O
+cast O O
+and O O
+crew O O
+for O O
+the O O
+movie O O
+life B-movie.name B-movie.name
+is I-movie.name I-movie.name
+beautiful I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who O O
+played O O
+in O O
+life B-movie.name B-movie.name
+is I-movie.name I-movie.name
+beautiful I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who O O
+played O O
+robin B-character.name O
+in O O
+batman B-movie.name B-movie.name
+forever I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what O O
+actor O O
+played O O
+in O O
+the B-movie.name B-movie.name
+amazing I-movie.name I-movie.name
+spider I-movie.name I-movie.name
+man I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+give O O
+me O O
+more O O
+facts O O
+about O O
+the O O
+cast O O
+and O O
+crew O O
+of O O
+the O O
+movie O O
+apollo B-movie.name B-movie.name
+thirteen I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show O O
+me O O
+the O O
+cast O O
+and O O
+crew O O
+for O O
+finding B-movie.name B-movie.name
+nemo I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who O O
+starred O O
+in O O
+taxi B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+who O O
+played O O
+in O O
+the B-movie.name B-movie.name
+oranges I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+find O O
+the O O
+male O O
+actor O O
+from O O
+the O O
+movie O O
+born B-movie.name B-movie.name
+free I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who O O
+played O O
+nick B-character.name B-character.name
+fury I-character.name O
+in O O
+the B-movie.name B-movie.name
+avengers I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what O O
+was O O
+the O O
+cast O O
+of O O
+black B-movie.name B-movie.name
+swan I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+cast O O
+and O O
+crew O O
+of O O
+hitch B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+who O O
+was O O
+the O O
+star O O
+in O O
+hitch B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+voice O O
+actor O O
+for O O
+homer B-character.name O
+simpson I-character.name I-movie.name
+EOS O O
+
+BOS O O
+who O O
+are O O
+the O O
+lead O O
+actors O O
+in O O
+this O O
+movie O O
+EOS O O
+
+BOS O O
+who O O
+was O O
+the O O
+actor O O
+in O O
+movie O O
+hum B-movie.name B-movie.name
+tum I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what O O
+is O O
+tom B-person.name B-actor.name
+cruise I-person.name I-actor.name
+'s O O
+birthday O O
+EOS O O
+
+BOS O O
+how O O
+much O O
+did O O
+the B-movie.name B-movie.name
+dark I-movie.name I-movie.name
+night I-movie.name I-movie.name
+cost O O
+to O O
+produce O O
+EOS O O
+
+BOS O O
+how O O
+much O O
+was O O
+the O O
+budget O O
+for O O
+the B-movie.name B-movie.name
+hunger I-movie.name I-movie.name
+games I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what O O
+was O O
+titanic B-movie.name B-movie.name
+'s O O
+budget O O
+EOS O O
+
+BOS O O
+finding O B-movie.name
+the O O
+buget O O
+of O O
+heroine B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+show O O
+me O O
+what O O
+was O O
+the O O
+budget O O
+of O O
+the O O
+movie O O
+avatar B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+what O O
+did O O
+the O O
+movie O O
+avatar B-movie.name B-movie.name
+cost O O
+to O O
+make O O
+EOS O O
+
+BOS O O
+how O O
+much O O
+money O O
+was O O
+spent O B-character.name
+on O O
+batman B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+what O O
+was O O
+the O O
+budget O O
+for O O
+citizen B-movie.name B-movie.name
+kane I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+budget O O
+for O O
+gone B-movie.name B-movie.name
+with I-movie.name I-movie.name
+the I-movie.name I-movie.name
+wind I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+how O O
+much O O
+did O O
+my B-movie.name B-movie.name
+big I-movie.name I-movie.name
+fat I-movie.name I-movie.name
+greek I-movie.name I-movie.name
+wedding I-movie.name I-movie.name
+cost O O
+EOS O O
+
+BOS O O
+what O O
+was O O
+the O O
+budget O O
+for O O
+old B-movie.name B-movie.name
+school I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who O O
+does O O
+ellen B-actor.name B-movie.name
+degeneres I-actor.name O
+play O O
+in O O
+finding B-movie.name B-movie.name
+nemo I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+how O O
+many O O
+films O O
+directed O O
+by O O
+barbra B-director.name O
+streisand I-director.name O
+have O O
+been O O
+shot O O
+in O O
+the O O
+czech B-movie.location I-country.name
+republic I-movie.location I-movie.name
+EOS O O
+
+BOS O O
+how O O
+many O O
+producers O O
+did O O
+the O O
+movie O O
+the O B-movie.name
+hitch B-movie.name I-movie.name
+have O O
+EOS O O
+
+BOS O O
+how O O
+many O O
+movies O O
+did O O
+hitchcock B-director.name B-director.name
+direct O O
+EOS O O
+
+BOS O O
+look O O
+for O O
+what O O
+country O O
+cell B-movie.name B-movie.name
+21 I-movie.name I-movie.name
+is O O
+from O O
+EOS O O
+
+BOS O O
+which O O
+decade O O
+did O O
+the O O
+movie O O
+come O O
+out O O
+EOS O O
+
+BOS O O
+may O O
+i O O
+have O O
+the O O
+date O O
+of O O
+release O O
+for O O
+this O O
+movie O O
+EOS O O
+
+BOS O O
+the B-movie.name B-movie.name
+godfather I-movie.name I-movie.name
+came O O
+out O O
+when O O
+EOS O O
+
+BOS O O
+when O O
+will O O
+the B-movie.name B-movie.name
+great I-movie.name I-movie.name
+gatsby I-movie.name I-movie.name
+be O O
+released O O
+EOS O O
+
+BOS O O
+when O O
+was O O
+life B-movie.name B-movie.name
+is I-movie.name I-movie.name
+beautiful I-movie.name I-movie.name
+released O O
+EOS O O
+
+BOS O O
+when O O
+did O O
+resident B-movie.name B-movie.name
+evil I-movie.name I-movie.name
+debut O I-movie.name
+in O O
+theaters O O
+EOS O O
+
+BOS O O
+in O O
+which O O
+month O O
+varsham B-movie.name B-movie.name
+movie O O
+released O O
+EOS O O
+
+BOS O O
+when O O
+was O O
+step B-movie.name B-movie.name
+up I-movie.name I-movie.name
+released O O
+EOS O O
+
+BOS O O
+when O O
+was O O
+lawless B-movie.name B-movie.name
+released O O
+EOS O O
+
+BOS O O
+when O O
+did O O
+dredd B-movie.name B-movie.name
+come O O
+out O O
+EOS O O
+
+BOS O O
+find O O
+the O O
+release O O
+date O O
+for O O
+heroine B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+director O O
+for O O
+gone B-movie.name B-movie.name
+with I-movie.name I-movie.name
+the I-movie.name I-movie.name
+wind I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who O O
+is O O
+the O O
+person O O
+that O O
+directed O O
+the O O
+film O O
+the B-movie.name B-movie.name
+dark I-movie.name I-movie.name
+knight I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who O O
+directed O O
+a B-movie.name B-movie.name
+hard I-movie.name I-movie.name
+day I-movie.name I-movie.name
+'s I-movie.name I-movie.name
+night I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who O O
+directed O O
+hard B-movie.name B-movie.name
+days I-movie.name I-movie.name
+night I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who O O
+did O O
+avatar B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+who O O
+made O O
+the O O
+movie O O
+avatar B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+who O O
+directed O O
+star B-movie.name B-movie.name
+wars I-movie.name I-movie.name
+four I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+the O O
+movie O O
+gilda B-movie.name B-movie.name
+director O O
+EOS O O
+
+BOS O O
+who O O
+directed O O
+gilda B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+who O O
+directed O O
+gilda B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+who O O
+directed O O
+the O O
+movie O O
+gilda B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+can O O
+i O O
+please O O
+see O O
+more O O
+details O O
+for O O
+the O O
+director O O
+of O O
+finding B-movie.name B-movie.name
+nemo I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show O O
+me O O
+finding B-movie.name B-movie.name
+nemo I-movie.name I-movie.name
+director O O
+EOS O O
+
+BOS O O
+who O O
+directed O O
+to B-movie.name O
+kill I-movie.name O
+a I-movie.name O
+mockingbird I-movie.name O
+EOS O O
+
+BOS O O
+show O O
+me O O
+who O O
+directed O O
+cabin B-movie.name B-movie.name
+in I-movie.name I-movie.name
+the I-movie.name I-movie.name
+woods I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who O O
+directed O O
+the B-movie.name B-movie.name
+sandlot I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+i O O
+would O O
+like O O
+to O O
+look O O
+for O O
+the O O
+director O O
+of O O
+freedom B-movie.name B-movie.name
+writers I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+did O O
+robert B-director.name B-director.name
+wise I-director.name I-director.name
+direct O O
+the B-movie.name O
+sound I-movie.name B-movie.name
+of I-movie.name I-movie.name
+music I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who O O
+directed O O
+the B-movie.name B-movie.name
+sound I-movie.name I-movie.name
+of I-movie.name I-movie.name
+music I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+search O O
+for O O
+the O O
+name O O
+of O O
+the O O
+director O O
+of O O
+return B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+what O O
+is O O
+the O O
+name O O
+of O O
+the O O
+director O O
+of O O
+the O O
+movie O O
+avengers B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+what O O
+is O O
+the O O
+movie O O
+category O O
+EOS O O
+
+BOS O O
+which O O
+language O O
+is O O
+used O O
+in O O
+the O O
+movie O O
+EOS O O
+
+BOS O O
+what O O
+are O O
+the O O
+different O O
+languages O O
+this O O
+movie O O
+come O O
+in O O
+EOS O O
+
+BOS O O
+what O O
+language O O
+is O O
+the O O
+movie O O
+in O O
+EOS O O
+
+BOS O O
+what O O
+language O O
+is O O
+the O O
+movie O O
+in O O
+EOS O O
+
+BOS O O
+what O O
+language O O
+is O O
+the B-movie.name B-movie.name
+chaser I-movie.name I-movie.name
+in O O
+EOS O O
+
+BOS O O
+language O O
+of O O
+the O O
+film O O
+revanche B-movie.name O
+EOS O O
+
+BOS O O
+i O O
+want O O
+to O O
+know O O
+the O O
+original O O
+language O O
+of O O
+ju B-movie.name B-movie.name
+on I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what O O
+movies O O
+did O O
+stephen B-director.name B-director.name
+king I-director.name I-director.name
+direct O O
+EOS O O
+
+BOS O O
+can O O
+you O O
+show O O
+me O O
+info O O
+on O O
+the O O
+movie O O
+life B-movie.name B-movie.name
+is I-movie.name I-movie.name
+beautiful I-movie.name I-movie.name
+please O O
+EOS O O
+
+BOS O O
+display O O
+information O O
+for O O
+the O O
+movie O O
+life B-movie.name B-movie.name
+is I-movie.name I-movie.name
+beautiful I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+will B-actor.name B-actor.name
+ferrell I-actor.name I-actor.name
+movies O O
+EOS O O
+
+BOS O O
+can O O
+you O O
+find O O
+me O O
+movies O O
+in O O
+russian B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+i O O
+am O O
+interested O O
+in O O
+watching O O
+a O O
+movie O O
+in O O
+polish B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+gross O O
+earnings O O
+for O O
+movies O O
+EOS O O
+
+BOS O O
+star B-movie.name B-movie.name
+wars I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what O O
+movies O O
+did O O
+clint B-director.name B-director.name
+eastwood I-director.name I-director.name
+direct O O
+and O O
+star O O
+in O O
+EOS O O
+
+BOS O O
+show O O
+me O O
+movies O O
+directed O O
+by O O
+sergio B-director.name B-director.name
+leone I-director.name I-director.name
+EOS O O
+
+BOS O O
+what O O
+movies O O
+has O O
+clive B-actor.name B-actor.name
+owen I-actor.name I-actor.name
+starred O O
+in O O
+EOS O O
+
+BOS O O
+find O O
+spike B-director.name B-director.name
+lee I-director.name I-director.name
+directed O O
+movies O O
+EOS O O
+
+BOS O O
+what O O
+movies O O
+did O O
+spike B-director.name B-director.name
+lee I-director.name I-director.name
+direct O O
+EOS O O
+
+BOS O O
+find O O
+films O O
+EOS O O
+
+BOS O O
+show O O
+me O O
+english B-movie.language B-movie.language
+movies O O
+EOS O O
+
+BOS O O
+show O O
+me O O
+a O O
+list O O
+of O O
+all O O
+movies O O
+made O O
+in O O
+the B-country.name O
+united I-country.name B-country.name
+states I-country.name I-country.name
+EOS O O
+
+BOS O O
+show O O
+me O O
+comedy B-movie.genre B-movie.genre
+movies O O
+EOS O O
+
+BOS O O
+movies O O
+by O O
+producer O O
+EOS O O
+
+BOS O O
+look O O
+up O O
+information O O
+about O O
+canadian B-country.name B-country.name
+movies O O
+EOS O O
+
+BOS O O
+find O O
+movies O O
+filmed O O
+in O O
+canada B-country.name B-country.name
+EOS O O
+
+BOS O O
+get O O
+films O O
+made O O
+in O O
+canada B-country.name B-country.name
+EOS O O
+
+BOS O O
+does O O
+italy B-country.name B-country.name
+make O O
+any O O
+movies O O
+EOS O O
+
+BOS O O
+give O O
+me O O
+a O O
+list O O
+of O O
+movies O O
+from O O
+spain B-country.name B-country.name
+EOS O O
+
+BOS O O
+list O O
+spanish B-movie.language B-movie.language
+movies O O
+EOS O O
+
+BOS O O
+i O O
+want O O
+to O O
+find O O
+romantic B-movie.genre B-movie.genre
+movies O O
+EOS O O
+
+BOS O O
+search O O
+for O O
+movies O O
+in O O
+french B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+show O O
+movies O O
+in O O
+french B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+show O O
+me O O
+information O O
+about O O
+movie O O
+EOS O O
+
+BOS O O
+movies O O
+about O O
+time B-movie.subject B-movie.subject
+travel I-movie.subject I-movie.subject
+EOS O O
+
+BOS O O
+show O O
+me O O
+movies O O
+made O O
+in O O
+england B-country.name B-country.name
+EOS O O
+
+BOS O O
+find O O
+movies O O
+directed O O
+by O O
+chris B-director.name B-director.name
+columbus I-director.name I-director.name
+EOS O O
+
+BOS O O
+what O O
+other O O
+movies O O
+has O O
+richard B-director.name B-director.name
+lester I-director.name I-director.name
+directed O O
+EOS O O
+
+BOS O O
+list O O
+movies O O
+by O O
+searchlight B-producer.name B-producer.name
+films I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+list O O
+of O O
+movies O O
+produced O O
+by O O
+searchlight B-producer.name B-producer.name
+films I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+movie O O
+made O O
+by O O
+dreamworks B-producer.name B-producer.name
+EOS O O
+
+BOS O O
+what O O
+movies O O
+did O O
+kevin B-director.name B-director.name
+costner I-director.name I-director.name
+direct O O
+EOS O O
+
+BOS O O
+show O O
+me O O
+cameron B-actor.name B-actor.name
+diaz I-actor.name O
+movies O O
+EOS O O
+
+BOS O O
+i O O
+want O O
+to O O
+know O O
+about O O
+life B-movie.name B-movie.name
+is I-movie.name I-movie.name
+beautiful I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what O O
+are O O
+some O O
+movies O O
+made O O
+in O O
+japan B-country.name B-country.name
+EOS O O
+
+BOS O O
+do O O
+you O O
+have O O
+any O O
+movies O O
+made O O
+in O O
+japan B-country.name B-country.name
+EOS O O
+
+BOS O O
+japanese B-country.name B-country.name
+movies O O
+EOS O O
+
+BOS O O
+look O O
+for O O
+movies O O
+directed O O
+by O O
+tyler B-director.name B-director.name
+perry I-director.name I-director.name
+EOS O O
+
+BOS O O
+i O O
+want O O
+to O O
+see O O
+chinese B-country.name B-country.name
+movies O O
+EOS O O
+
+BOS O O
+watch O O
+century B-producer.name O
+fox I-producer.name B-producer.name
+movies O O
+EOS O O
+
+BOS O O
+show O O
+me O O
+elvis B-actor.name O
+movies O O
+EOS O O
+
+BOS O O
+what O O
+movies O O
+are O O
+rated O O
+pg B-rating.name B-rating.name
+thirteen I-rating.name I-rating.name
+EOS O O
+
+BOS O O
+list O O
+all O O
+movies O O
+rated O O
+pg-13 B-rating.name B-rating.name
+EOS O O
+
+BOS O O
+give O O
+me O O
+a O O
+list O O
+of O O
+some O O
+movies O O
+that O O
+have O O
+pg-13 B-rating.name B-rating.name
+rating O O
+EOS O O
+
+BOS O O
+i O O
+want O O
+to O O
+see O O
+a O O
+list O O
+of O O
+g B-rating.name B-rating.name
+rated O O
+movies O O
+EOS O O
+
+BOS O O
+are O O
+there O O
+any O O
+g B-rating.name B-rating.name
+movies O O
+out O O
+there O O
+right O O
+now O B-movie.name
+EOS O O
+
+BOS O O
+i O O
+want O O
+to O O
+see O O
+g-rated O B-rating.name
+films O O
+now O O
+EOS O O
+
+BOS O O
+show O O
+only O O
+g B-rating.name B-rating.name
+rated O O
+movies O O
+EOS O O
+
+BOS O O
+only O O
+movies O O
+rated O O
+g B-rating.name B-rating.name
+EOS O O
+
+BOS O O
+there O O
+are O O
+several O O
+g B-rating.name B-rating.name
+movies O O
+EOS O O
+
+BOS O O
+get O O
+films O O
+from O O
+the B-country.name O
+united I-country.name B-country.name
+kingdom I-country.name I-country.name
+EOS O O
+
+BOS O O
+was O O
+will B-actor.name B-actor.name
+smith I-actor.name I-actor.name
+in O O
+hitch B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+find O O
+movies O O
+directed O O
+by O O
+stephen B-director.name B-director.name
+spielberg I-director.name I-director.name
+EOS O O
+
+BOS O O
+find O O
+movies O O
+directed O O
+by O O
+eddie B-director.name B-director.name
+murphy I-director.name I-director.name
+EOS O O
+
+BOS O O
+what O O
+movies O O
+are O O
+made O O
+by O O
+twentieth B-producer.name B-producer.name
+century I-producer.name I-producer.name
+fox I-producer.name I-producer.name
+television I-producer.name O
+EOS O O
+
+BOS O O
+i O O
+would O O
+like O O
+to O O
+see O O
+french B-country.name B-country.name
+movies O O
+EOS O O
+
+BOS O O
+show O O
+me O O
+all O O
+movies O O
+about O O
+diving B-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+show O O
+tom B-actor.name B-actor.name
+hanks I-actor.name I-actor.name
+movies O O
+EOS O O
+
+BOS O O
+show O O
+movies O O
+directed O O
+by O O
+oliver B-director.name B-director.name
+stone I-director.name I-director.name
+EOS O O
+
+BOS O O
+what O O
+movies O O
+has O O
+albert B-producer.name B-producer.name
+ruddy I-producer.name I-producer.name
+produced O O
+EOS O O
+
+BOS O O
+what O O
+movies O O
+have O O
+albert B-producer.name B-producer.name
+ruddy I-producer.name I-producer.name
+produced O O
+EOS O O
+
+BOS O O
+which O O
+all O O
+movies O O
+are O O
+produced O O
+by O O
+yash B-producer.name B-producer.name
+chopra I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+what O O
+movies O O
+were O O
+produced O O
+by O O
+brad B-producer.name B-producer.name
+pitt I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+is O O
+this O O
+movie O O
+a O O
+romance B-movie.genre B-movie.genre
+EOS O O
+
+BOS O O
+hope O O
+this O O
+movie O O
+is O O
+in O O
+english B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+was O O
+what O O
+tom B-actor.name B-actor.name
+cruise I-actor.name I-actor.name
+'s O O
+first O O
+movie O O
+EOS O O
+
+BOS O O
+watch O O
+james B-director.name B-director.name
+cameron I-director.name I-director.name
+movies O O
+EOS O O
+
+BOS O O
+show O O
+me O O
+other O O
+movies O O
+produced O O
+by O O
+james B-producer.name B-producer.name
+cameron I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+show O O
+me O O
+some O O
+films O O
+produced O O
+by O O
+jon B-producer.name O
+landau I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+finding B-movie.name B-movie.name
+nemo I-movie.name I-movie.name
+details O O
+please O O
+EOS O O
+
+BOS O O
+what O O
+movies O O
+has O O
+charles B-director.name B-director.name
+vidor I-director.name I-director.name
+directed O O
+EOS O O
+
+BOS O O
+kareena B-actor.name B-actor.name
+'s O O
+movies O O
+EOS O O
+
+BOS O O
+give O O
+me O O
+a O O
+list O O
+of O O
+woody B-director.name B-director.name
+allen I-director.name I-director.name
+films O O
+EOS O O
+
+BOS O O
+list O O
+all O O
+of O O
+the O O
+movies O O
+that O O
+have O O
+been O O
+directed O O
+by O O
+robert B-director.name B-director.name
+wise I-director.name I-director.name
+EOS O O
+
+BOS O O
+show O O
+me O O
+movies O O
+in O O
+german B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+show O O
+back B-movie.name B-movie.name
+to I-movie.name I-movie.name
+the I-movie.name I-movie.name
+future I-movie.name I-movie.name
+movies O O
+EOS O O
+
+BOS O O
+i O O
+want O O
+to O O
+watch O O
+movies O O
+with O O
+brad B-actor.name B-actor.name
+pitt I-actor.name I-actor.name
+EOS O O
+
+BOS O O
+list O O
+all O O
+brad B-actor.name B-actor.name
+pitt I-actor.name I-actor.name
+'s O O
+movies O O
+EOS O O
+
+BOS O O
+what O O
+movies O O
+did O O
+tom B-director.name B-director.name
+hanks I-director.name I-director.name
+direct O O
+that O O
+he O O
+also O O
+starred O O
+in O O
+EOS O O
+
+BOS O O
+give O O
+me O O
+a O O
+list O O
+of O O
+r B-rating.name B-rating.name
+rated O O
+movies O O
+EOS O O
+
+BOS O O
+show O O
+me O O
+a O O
+list O O
+of O O
+movies O O
+with O O
+r B-rating.name B-rating.name
+rating O O
+EOS O O
+
+BOS O O
+what O O
+are O O
+movies O O
+that O O
+have O O
+a O O
+r B-rating.name B-rating.name
+rating O O
+EOS O O
+
+BOS O O
+can O O
+you O O
+find O O
+movies O O
+in O O
+spanish B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+give O O
+me O O
+swedish B-country.name B-movie.language
+films O O
+EOS O O
+
+BOS O O
+find O O
+some O O
+zombie B-movie.subject B-movie.subject
+movies O O
+EOS O O
+
+BOS O O
+german B-country.name B-country.name
+movie O O
+info O O
+EOS O O
+
+BOS O O
+i O O
+want O O
+to O O
+watch O O
+a O O
+german B-country.name B-country.name
+movie O O
+EOS O O
+
+BOS O O
+please O O
+give O O
+me O O
+a O O
+dutch B-country.name B-country.name
+movie O O
+listing O O
+EOS O O
+
+BOS O O
+dutch B-country.name B-country.name
+movie O O
+listing O O
+EOS O O
+
+BOS O O
+get O O
+me O O
+star B-movie.name B-movie.name
+wars I-movie.name I-movie.name
+episode I-movie.name I-movie.name
+four I-movie.name I-movie.name
+details O O
+EOS O O
+
+BOS O O
+what O O
+is O O
+full O O
+name O O
+of O O
+star B-movie.name B-movie.name
+wars I-movie.name I-movie.name
+iv I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+darth B-character.name O
+vader I-character.name O
+EOS O O
+
+BOS O O
+i O O
+want O O
+to O O
+see O O
+anne B-actor.name B-actor.name
+hathaway I-actor.name I-actor.name
+'s O O
+latest O O
+movie O O
+EOS O O
+
+BOS O O
+movies O O
+about O O
+basketball B-movie.subject O
+EOS O O
+
+BOS O O
+i O O
+am O O
+looking O O
+for O O
+movies O O
+produced O O
+by O O
+clint B-producer.name B-producer.name
+eastwood I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+show O O
+me O O
+the O O
+page O O
+about O O
+house B-movie.name B-movie.name
+at I-movie.name I-movie.name
+the I-movie.name I-movie.name
+end I-movie.name I-movie.name
+of I-movie.name I-movie.name
+the I-movie.name I-movie.name
+street I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+give O O
+me O O
+a O O
+list O O
+of O O
+movies O O
+produced O O
+by O O
+george B-producer.name B-producer.name
+lucas I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+movies O O
+about O O
+immigration B-movie.subject O
+EOS O O
+
+BOS O O
+the B-movie.name B-movie.name
+campaign I-movie.name I-movie.name
+movie O O
+page O O
+EOS O O
+
+BOS O O
+what O O
+are O O
+recent O O
+films O O
+by O O
+will B-actor.name B-director.name
+ferrell I-actor.name I-director.name
+EOS O O
+
+BOS O O
+watch O O
+ron B-director.name B-director.name
+howard I-director.name I-director.name
+'s O O
+latest O O
+movie O O
+EOS O O
+
+BOS O O
+find O O
+sandra B-actor.name B-actor.name
+bullock I-actor.name I-actor.name
+'s O O
+latest O O
+movie O O
+EOS O O
+
+BOS O O
+what O O
+movie O O
+made O O
+the O O
+least O O
+money O O
+EOS O O
+
+BOS O O
+see O O
+ed B-actor.name B-actor.name
+harris I-actor.name I-actor.name
+last O O
+movie O O
+EOS O O
+
+BOS O O
+synopsis O O
+for O O
+in B-movie.name B-movie.name
+july I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+can O O
+i O O
+have O O
+a O O
+list O O
+of O O
+movie O O
+production O O
+companies O O
+EOS O O
+
+BOS O O
+show O O
+me O O
+information O O
+on O O
+shelly B-person.name O
+long I-person.name O
+EOS O O
+
+BOS O O
+find O O
+me O O
+more O O
+information O O
+on O O
+scorscese B-person.name O
+EOS O O
+
+BOS O O
+search O O
+for O O
+information O O
+about O O
+tom B-person.name B-person.name
+cruise I-person.name I-person.name
+EOS O O
+
+BOS O O
+display O O
+all O O
+information O O
+on O O
+will B-person.name B-person.name
+ferrell I-person.name I-person.name
+EOS O O
+
+BOS O O
+show O O
+me O O
+will B-person.name B-person.name
+ferrell I-person.name I-person.name
+information O O
+EOS O O
+
+BOS O O
+show O O
+me O O
+spielberg B-person.name B-person.name
+'s O O
+main O O
+page O O
+EOS O O
+
+BOS O O
+sergio B-person.name B-director.name
+leone I-person.name I-director.name
+EOS O O
+
+BOS O O
+show O O
+me O O
+the O O
+name O O
+of O O
+the O O
+producer O O
+of O O
+the O O
+movie O O
+avatar B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+what O O
+is O O
+the O O
+name O O
+of O O
+the O O
+company O O
+that O O
+produced O O
+the O O
+movie O O
+inception B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+what O O
+production O O
+company O O
+was O O
+responsible O O
+for O O
+the O O
+film O O
+the B-movie.name B-movie.name
+devil I-movie.name I-movie.name
+wears I-movie.name I-movie.name
+prada I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what O O
+company O O
+produced O O
+secretariat B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+what O O
+company O O
+produced O O
+cabin B-movie.name B-movie.name
+in I-movie.name I-movie.name
+the I-movie.name I-movie.name
+woods I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who O O
+produced O O
+et B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+look O O
+for O O
+the O O
+producer O O
+of O O
+heroine B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+i O O
+need O O
+to O O
+know O O
+the O O
+movie O O
+avatar B-movie.name B-movie.name
+'s O O
+producer O O
+name O O
+EOS O O
+
+BOS O O
+what O O
+studio O O
+made O O
+the B-movie.name B-movie.name
+dark I-movie.name I-movie.name
+knight I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+search O O
+mgm B-producer.name B-producer.name
+studios I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+who O O
+produced O O
+the O O
+movie O O
+EOS O O
+
+BOS O O
+search O O
+for O O
+the O O
+producer O O
+of O O
+step B-movie.name B-movie.name
+up I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+is O O
+toy B-movie.name B-movie.name
+story I-movie.name I-movie.name
+for B-rating.name O
+kids I-rating.name O
+EOS O O
+
+BOS O O
+movie O O
+rating O O
+EOS O O
+
+BOS O O
+what O O
+age O O
+is O O
+appropriate O O
+to O I-movie.name
+watch O I-movie.name
+marley B-movie.name B-movie.name
+and I-movie.name I-movie.name
+me I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+tell O O
+me O O
+the O O
+rating O O
+of O O
+the O O
+movie O O
+grease B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+rating O O
+for O O
+the B-movie.name B-movie.name
+avengers I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what O O
+is O O
+jurassic B-movie.name B-movie.name
+park I-movie.name I-movie.name
+rated O O
+EOS O O
+
+BOS O O
+what O O
+'s O O
+the O O
+rating O O
+for O O
+satyricon B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+show O O
+me O O
+the O O
+rating O O
+for O O
+the O O
+movie O O
+the B-movie.name B-movie.name
+mechanic I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+how O O
+much O O
+revenue O O
+did O O
+titanic B-movie.name B-movie.name
+make O O
+EOS O O
+
+BOS O O
+show O O
+me O O
+the B-movie.name B-movie.name
+lion I-movie.name I-movie.name
+king I-movie.name I-movie.name
+'s O O
+revenue O O
+EOS O O
+
+BOS O O
+who O O
+plays O O
+luke B-character.name B-character.name
+skywalker I-character.name O
+in O O
+nineteen B-movie.release_date B-movie.release_date
+seventieseven I-movie.release_date I-movie.release_date
+starwars B-movie.name O
+EOS O O
+
+BOS O O
+what O O
+was O O
+the O O
+name O O
+of O O
+the O O
+actor O O
+who O O
+plays O O
+victor B-character.name B-character.name
+on O O
+young B-movie.name O
+and I-movie.name O
+the I-movie.name O
+restless I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what O O
+was O O
+the O O
+budget O O
+for O O
+the O O
+movie O O
+epic B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+the O O
+budget O O
+of O O
+the O O
+russian B-country.name B-country.name
+movie O O
+return B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+what O O
+was O O
+star B-movie.name B-movie.name
+wars I-movie.name I-movie.name
+budget O O
+EOS O O
+
+BOS O O
+what O O
+country O O
+is O O
+in B-movie.name O
+the I-movie.name O
+land I-movie.name O
+of I-movie.name I-movie.name
+blood I-movie.name I-movie.name
+and I-movie.name O
+honey I-movie.name O
+EOS O O
+
+BOS O O
+where O O
+was O O
+les B-movie.name B-movie.name
+mes I-movie.name I-movie.name
+set O O
+EOS O O
+
+BOS O O
+get O O
+me O O
+star B-movie.name B-movie.name
+wars I-movie.name I-movie.name
+director O O
+EOS O O
+
+BOS O O
+who O O
+directed O O
+star B-movie.name B-movie.name
+wars I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+director O O
+of O O
+taking B-movie.name O
+of I-movie.name O
+the I-movie.name O
+pelham I-movie.name O
+1 I-movie.name I-movie.name
+2 I-movie.name O
+3 I-movie.name O
+EOS O O
+
+BOS O O
+what O O
+language O O
+is O O
+the O O
+father B-movie.name O
+of I-movie.name O
+my I-movie.name B-movie.name
+children I-movie.name I-movie.name
+in O O
+EOS O O
+
+BOS O O
+show O O
+me O O
+names O O
+of O O
+some O O
+movies O O
+about O O
+gardening B-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+get O O
+me O O
+the O O
+names O O
+of O O
+movies O O
+about O O
+sports B-movie.subject B-movie.subject
+figures I-movie.subject I-movie.subject
+EOS O O
+
+BOS O O
+list O O
+release O O
+dates O O
+for O O
+all O O
+horror B-movie.genre B-movie.genre
+movies O O
+between B-movie.release_date O
+1995 I-movie.release_date B-actor.name
+and I-movie.release_date O
+2000 I-movie.release_date O
+EOS O O
+
+BOS O O
+show O O
+me O O
+the O O
+earnings O O
+for O O
+clint B-director.name B-actor.name
+eastwood I-director.name I-director.name
+movies O O
+EOS O O
+
+BOS O O
+i O O
+want O O
+to O O
+know O O
+all O O
+the O O
+comedies B-movie.genre B-movie.genre
+that O O
+warner B-producer.name B-producer.name
+brothers I-producer.name I-producer.name
+made O O
+in O O
+twenty B-movie.release_date B-movie.release_date
+eleven I-movie.release_date I-movie.release_date
+EOS O O
+
+BOS O O
+show O O
+all O O
+dramas B-movie.genre B-movie.genre
+that O O
+came O O
+out O O
+nine B-movie.release_date B-movie.release_date
+twenty I-movie.release_date I-movie.release_date
+one I-movie.release_date I-movie.release_date
+twenty I-movie.release_date I-movie.release_date
+twelve I-movie.release_date I-movie.release_date
+EOS O O
+
+BOS O O
+show O O
+all O O
+danish B-country.name B-movie.language
+movies O O
+in O O
+this B-movie.release_date B-movie.release_date
+decade I-movie.release_date O
+EOS O O
+
+BOS O O
+show O O
+me O O
+all O O
+brad B-director.name B-director.name
+pitt I-director.name I-director.name
+directed O O
+movies O O
+EOS O O
+
+BOS O O
+list O O
+of O O
+movies O O
+directed O O
+by O O
+john B-director.name B-director.name
+paul I-director.name I-director.name
+EOS O O
+
+BOS O O
+find O O
+a O O
+ron B-director.name B-director.name
+howard I-director.name I-director.name
+movie O O
+from O O
+2012 B-movie.release_date B-movie.release_date
+EOS O O
+
+BOS O O
+show O O
+movies O O
+directed O O
+by O O
+the O O
+zucker B-director.name O
+brothers I-director.name I-producer.name
+EOS O O
+
+BOS O O
+find O O
+some O O
+detective B-movie.genre B-movie.subject
+movies O O
+EOS O O
+
+BOS O O
+what O O
+movies O O
+were O O
+released O O
+nine B-movie.release_date B-movie.release_date
+fourteen I-movie.release_date I-movie.release_date
+twelve I-movie.release_date I-movie.release_date
+EOS O O
+
+BOS O O
+what O O
+twenty B-movie.release_date B-movie.release_date
+twelve I-movie.release_date I-movie.release_date
+movies O O
+were O O
+rated O O
+pg B-rating.name B-rating.name
+EOS O O
+
+BOS O O
+display O O
+a O O
+list O O
+of O O
+2012 B-movie.release_date B-movie.release_date
+movies O O
+in O O
+german B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+what O O
+are O O
+the O O
+movies O O
+that O O
+alfred B-producer.name B-producer.name
+ruddy I-producer.name I-producer.name
+produced O O
+EOS O O
+
+BOS O O
+find O O
+dreamworks B-producer.name B-producer.name
+movies O O
+from O B-rating.name
+twenty B-movie.release_date B-movie.release_date
+ten I-movie.release_date I-movie.release_date
+EOS O O
+
+BOS O O
+find O O
+sports B-movie.subject B-movie.subject
+movies O O
+rated O O
+pg B-rating.name B-rating.name
+EOS O O
+
+BOS O O
+show O O
+me O O
+brittney B-actor.name B-actor.name
+murphey I-actor.name I-actor.name
+movies O O
+EOS O O
+
+BOS O O
+show O O
+me O O
+the O O
+movies O O
+acted O O
+by O O
+namitha B-actor.name O
+EOS O O
+
+BOS O O
+search O O
+for O O
+films O O
+with O O
+von B-actor.name B-actor.name
+sudow I-actor.name I-actor.name
+EOS O O
+
+BOS O O
+i O O
+want O O
+to O O
+see O O
+films O O
+involving O O
+cars B-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+i O O
+would O O
+love O O
+to O O
+see O O
+a O O
+movie O O
+about O O
+esp B-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+i O O
+would O O
+like O O
+to O O
+know O O
+names O O
+of O O
+some O O
+movies O O
+related O O
+with O O
+gardening B-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+show O O
+all O O
+movies O O
+with O O
+america O B-rating.name
+in O O
+title O O
+EOS O O
+
+BOS O O
+get O O
+finding B-movie.name B-movie.name
+nemo I-movie.name I-movie.name
+twenty B-movie.release_date B-movie.release_date
+oh I-movie.release_date I-movie.release_date
+three I-movie.release_date I-movie.release_date
+EOS O O
+
+BOS O O
+search O O
+disney B-producer.name B-producer.name
+pictures I-producer.name O
+EOS O O
+
+BOS O O
+revenue O O
+for O O
+breaking B-movie.name B-movie.name
+dawn I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+end B-movie.name O
+of I-movie.name O
+watch I-movie.name I-movie.name
+gross O O
+EOS O O
+
+BOS O O
+show O O
+me O O
+the O O
+revenue O O
+created O O
+by O O
+ghost B-movie.name B-movie.name
+rider I-movie.name I-movie.name
+spirit I-movie.name I-movie.name
+of I-movie.name I-movie.name
+vengeance I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+how O O
+much O O
+did O O
+this O O
+movie O O
+make O O
+EOS O O
+
+BOS O O
+find O O
+revenue O O
+generated O O
+by O O
+kahani B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+want O O
+to O O
+find O O
+the O O
+revenue O O
+of O O
+kahani B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+can O O
+you O O
+please O O
+tell O O
+me O O
+about O O
+the O O
+revenue O O
+for O O
+the O O
+movie O O
+mr B-movie.name B-movie.name
+and I-movie.name I-movie.name
+mrs I-movie.name I-movie.name
+smith I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what O O
+was O O
+the O O
+revenue O O
+for O O
+pulp B-movie.name B-country.name
+fiction I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+how O O
+much O O
+money O O
+did O O
+shrek B-movie.name B-movie.name
+bring O O
+in O O
+EOS O O
+
+BOS O O
+how O O
+much O O
+revenue O O
+did O O
+cabin B-movie.name I-movie.name
+in I-movie.name I-movie.name
+the I-movie.name I-movie.name
+woods I-movie.name I-movie.name
+bring O O
+in O O
+EOS O O
+
+BOS O O
+show O O
+me O O
+the O O
+revenue O O
+created O O
+by O O
+the B-movie.name B-movie.name
+expendables I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+how O O
+much O O
+revenue O O
+did O O
+lord B-movie.name B-movie.name
+of I-movie.name I-movie.name
+the I-movie.name I-movie.name
+rings I-movie.name I-movie.name
+get O O
+EOS O O
+
+BOS O O
+how O O
+much O O
+did O O
+trouble B-movie.name B-movie.name
+with I-movie.name I-movie.name
+the I-movie.name I-movie.name
+curve I-movie.name I-movie.name
+make O O
+in O O
+the O O
+box O O
+office O O
+EOS O O
+
+BOS O O
+search O O
+by O O
+stars O O
+EOS O O
+
+BOS O O
+where O O
+can O O
+i O O
+rent O O
+this O O
+movie O O
+EOS O O
+
+BOS O O
+can O O
+i O O
+buy O O
+this O O
+movie O O
+EOS O O
+
+BOS O O
+where O O
+is O O
+movies O O
+dialect O O
+from O O
+EOS O O
+
+BOS O O
+is O O
+tom B-person.name B-actor.name
+cruise I-person.name I-actor.name
+getting O O
+a O O
+divorce O O
+EOS O O
+
+BOS O O
+middle O O
+aged O O
+white O O
+actors O O
+EOS O O
+
+BOS O O
+show O O
+other O O
+movies O O
+similar O O
+to O O
+this O O
+EOS O O
+
+BOS O O
+what O O
+are O O
+some O O
+movies O O
+like O O
+the B-movie.name B-movie.name
+campaign I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what O O
+are O O
+sone O O
+other O O
+movies O O
+house B-movie.name B-movie.name
+at I-movie.name I-movie.name
+the I-movie.name I-movie.name
+end I-movie.name I-movie.name
+of I-movie.name I-movie.name
+the I-movie.name I-movie.name
+street I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what O O
+other O O
+movies O O
+are O O
+about O O
+the B-movie.subject O
+holocaust B-movie.subject O
+similar O O
+to O O
+life B-movie.name B-movie.name
+is I-movie.name I-movie.name
+beautiful I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what O O
+did O O
+steven B-person.name B-director.name
+spielberg I-person.name I-director.name
+do O O
+before O O
+he O O
+was O O
+a O O
+director O O
+EOS O O
+
+BOS O O
+ed B-actor.name B-actor.name
+harris I-actor.name I-actor.name
+quotes O O
+from O O
+apollo B-movie.name B-movie.name
+thirteen I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+how O O
+did O O
+robert B-director.name B-producer.name
+wise I-director.name I-producer.name
+get O O
+hired O O
+to O O
+direct O O
+the B-movie.name B-movie.name
+sound I-movie.name I-movie.name
+of I-movie.name I-movie.name
+music I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+auqua O O
+fish O O
+EOS O O
+
+BOS O O
+he O O
+works O O
+in O O
+a O O
+toy O B-movie.name
+company O O
+EOS O O
+
+BOS O O
+des O O
+ireland B-country.name O
+have O O
+any O O
+movie O O
+festivals O O
+EOS O O
+
+BOS O O
+how O O
+do O O
+people O O
+live O O
+in O O
+japan B-country.name B-country.name
+EOS O O
+
+BOS O O
+jenn B-person.name B-person.name
+ann I-person.name I-person.name
+news O O
+feed O O
+twenty O O
+ten O O
+EOS O O
+
+BOS O O
+movie O O
+made O O
+EOS O O
+
+BOS O O
+never O O
+would O O
+watch O O
+this O O
+movie O O
+with O O
+a O O
+rating O O
+of O O
+dredd B-movie.name B-movie.name
+change O O
+rating O O
+EOS O O
+
+BOS O O
+show O O
+me O O
+all O O
+the O O
+information O O
+highlighted O O
+in B-movie.name B-movie.name
+orange I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show O O
+me O O
+the O O
+credits O O
+in B-movie.name B-movie.name
+orange I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what O O
+age O O
+group O O
+is O O
+an O O
+r B-rating.name B-rating.name
+movie O O
+appropriate O B-rating.name
+for O I-rating.name
+EOS O O
+
+BOS O O
+what O O
+are O O
+the O O
+names O O
+of O O
+some O O
+famous O O
+producers O O
+in O O
+hollywood O O
+EOS O O
+
+BOS O O
+what O O
+does O O
+a O O
+g B-rating.name B-rating.name
+rating O O
+mean O O
+EOS O O
+
+BOS O O
+what O O
+does O O
+the O O
+paramount B-producer.name B-producer.name
+logo O O
+look O O
+like O O
+EOS O O
+
+BOS O O
+what O O
+is O O
+the O O
+difference O O
+between O O
+rated O O
+nr B-rating.name B-rating.name
+and O O
+r B-rating.name B-rating.name
+EOS O O
+
+BOS O O
+whos O O
+idea O O
+was O O
+it O O
+for O O
+kung B-movie.name B-movie.name
+fo I-movie.name I-movie.name
+panda I-movie.name I-movie.name
+two O I-movie.name
+EOS O O
+
+BOS O O
+search O O
+popularity O O
+EOS O O
+
+BOS O O
+would O O
+you O O
+make O O
+a O O
+sequel O O
+EOS O O
+
+BOS O O
+who O O
+played O O
+the B-character.name B-character.name
+principal I-character.name O
+in O O
+ferris B-movie.name B-movie.name
+bueller I-movie.name O
+'s I-movie.name O
+day I-movie.name O
+off I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who O O
+was O O
+the O O
+sheriff B-character.name O
+that I-character.name O
+had I-character.name O
+to I-character.name O
+kill I-character.name O
+the I-character.name O
+bad I-character.name O
+guy I-character.name O
+in O O
+high B-movie.name O
+noon I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who O O
+played O O
+the B-character.name O
+doctor I-character.name O
+in O O
+the B-movie.name B-movie.name
+doctor I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what O O
+is O O
+the O O
+name O O
+of O O
+the O O
+red B-character.name O
+ranger I-character.name I-character.name
+guy I-character.name O
+in O O
+power B-movie.name B-movie.name
+rangers I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+get O O
+me O O
+the O O
+name O O
+of O O
+the O O
+actor O O
+what O O
+was O O
+the B-character.name O
+dad I-character.name I-character.name
+in O O
+to B-movie.name B-movie.name
+kill I-movie.name I-movie.name
+a I-movie.name O
+mockingbird I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+usa B-movie.release_region B-country.name
+release O O
+date O O
+for O O
+the O O
+film O O
+little B-movie.name B-movie.name
+women I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show O O
+me O O
+some O O
+of O O
+the O O
+greatest O O
+film O O
+directors O O
+of O O
+our O B-movie.name
+time O O
+EOS O O
+
+BOS O O
+show O O
+me O O
+directors O O
+of O O
+famous O O
+films O O
+EOS O O
+
+BOS O O
+who O O
+are O O
+these O O
+directors O O
+EOS O O
+
+BOS O O
+preview O O
+paramount B-producer.name B-producer.name
+pictures I-producer.name O
+clips O O
+EOS O O
+
+BOS O O
+what O O
+has O O
+person O O
+directed O O
+EOS O O
+
+BOS O O
+what O O
+did O O
+lee B-director.name B-director.name
+unkridge I-director.name I-director.name
+direct O O
+EOS O O
+
+BOS O O
+scary O O
+movies O O
+by O O
+this O O
+producer O O
+EOS O O
+
+BOS O O
+i O O
+would O O
+like O O
+to O O
+know O O
+the O O
+names O O
+of O O
+some O O
+award O I-movie.name
+winning O O
+movies O O
+by O O
+indian B-actor.nationality B-actor.nationality
+actor O O
+dilip B-actor.name B-actor.name
+kumar I-actor.name I-actor.name
+EOS O O
+
+BOS O O
+find O O
+shows O O
+about O O
+cars B-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+what O O
+movies O O
+did O O
+meryl B-person.name B-director.name
+streep I-person.name I-movie.language
+win O O
+her O O
+oscars B-award.ceremony B-award.ceremony
+EOS O O
+
+BOS O O
+show O O
+me O O
+the O O
+reviews O O
+on O O
+the O O
+movie O O
+the B-movie.name B-movie.name
+campaign I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+where O O
+can O O
+i O O
+see O O
+house B-movie.name B-movie.name
+at I-movie.name I-movie.name
+the I-movie.name I-movie.name
+end I-movie.name I-movie.name
+of I-movie.name I-movie.name
+the I-movie.name I-movie.name
+street I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+how O O
+many O O
+awards O O
+did O O
+alfred B-person.name B-director.name
+hitchcock I-person.name I-director.name
+win O O
+for O O
+directing B-award.category O
+EOS O O
+
+BOS O O
+were O O
+there O O
+any O O
+movies O O
+that O O
+came O O
+out O O
+this B-movie.release_date B-movie.release_date
+year I-movie.release_date I-movie.release_date
+filmed O O
+in O O
+france B-movie.location B-movie.location
+EOS O O
+
